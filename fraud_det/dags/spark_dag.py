@@ -24,7 +24,7 @@ dag = DAG(
 # SparkSubmitOperator to submit the Spark job
 spark_task = SparkSubmitOperator(
     task_id='spark_task',
-    conn_id='spark_default',  # Assuming you've configured a Spark connection in Airflow
+    conn_id='spark_default',
     application="/opt/airflow/spark_script.py",
     total_executor_cores='2',
     executor_cores='1',
