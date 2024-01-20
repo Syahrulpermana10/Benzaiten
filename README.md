@@ -8,7 +8,7 @@ The project focuses on improving fraud detection capabilities through efficient 
 #### **Key Components:**
 
 1. **Airflow DAG (Directed Acyclic Graph):**
-   - **File:** `example_dag.py`
+   - **File:** `spark_dag.py`
    - **Description:**
      - Defines an Airflow DAG named 'spark_job_dag' for scheduling Spark jobs.
      - Utilizes `SparkSubmitOperator` to submit Spark jobs with specified configurations.
