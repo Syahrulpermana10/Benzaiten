@@ -1,0 +1,1001 @@
+transaction_id,amount,merchant,timestamp,fraudulent
+cb27bf62-7915-43df-ab25-3593abc93e17,527,Williams-Walker,2024-01-06 07:21:56,False
+ab04864e-5c01-4782-ad45-97f7dbe5646b,448,Gilbert PLC,2024-01-04 21:35:03,False
+959fde7b-bd3b-4237-8147-49f8ea6372ab,347,Lopez-Soto,2024-01-17 15:39:16,False
+c474d4f4-e9db-4a91-9c47-d696e68b4f2f,413,Zhang Inc,2024-01-07 10:06:04,True
+947b9d5d-1118-4013-8c7a-ef5a71bdb92a,19,"Li, Wyatt and James",2024-01-16 19:00:22,False
+80a27628-dce4-49f1-b750-0db1027093ad,541,Davenport LLC,2024-01-11 20:46:03,False
+09ff3d44-165f-4554-b669-8e494dc6dca3,209,Garcia-Stafford,2024-01-01 16:42:17,False
+8a6a4a5a-93e7-4d69-b1c2-e61722bdf0dd,915,"Edwards, Greer and Arnold",2024-01-08 13:00:18,True
+95a3c43c-a2f1-4357-8024-9b345a32e54f,315,"Morgan, Sanders and Pennington",2024-01-03 08:57:49,False
+ed4e574d-2158-499b-805d-a742574afe3e,159,Atkins Group,2024-01-17 09:27:43,True
+a9d0e47f-9e62-46f3-998a-4dc0f5d37704,294,Ashley and Sons,2024-01-14 13:29:27,False
+b210b711-8a86-4d63-8355-ec85a87bda65,590,Hale-Wise,2024-01-07 04:12:24,False
+1e3f03c8-22c9-4496-ab44-1869570a3432,295,Robinson-Rodriguez,2024-01-17 13:41:12,False
+dfdcf646-126b-46c0-a1b3-26874a8275d5,60,Humphrey LLC,2024-01-13 11:51:51,False
+c72f2410-2a82-4b6e-97f5-378e72b1caa0,279,"Martin, Mann and Valdez",2024-01-15 08:40:57,False
+061aa98f-8249-445d-aad3-b524dd25d78b,761,Hamilton Inc,2024-01-02 15:11:24,True
+7d54ce8f-02c9-4bcc-9b54-1eb0cfa3a47a,687,"Rodriguez, Miller and Morris",2024-01-07 20:16:20,False
+2156e005-8dfa-4380-ac45-0459a987466f,566,"Mahoney, Scott and Wilson",2024-01-01 22:11:49,True
+4228ce72-0677-4aca-8bba-38f6ce45de99,188,"Zhang, Carter and Griffin",2024-01-03 16:32:06,False
+654aeec9-fcc0-4874-bdfe-bc1671e9bc27,780,Baker-Parsons,2024-01-12 16:04:28,False
+8b026879-58b6-4581-aab5-22a5a1c646e1,573,Chandler-Lopez,2024-01-03 22:58:12,False
+0d414907-7757-4428-a5b0-d97ea31afd26,241,Smith PLC,2024-01-17 04:59:41,False
+b0b4c08b-eb28-4990-8b63-de5c9b4a056c,830,Benson-Perez,2024-01-18 17:21:19,False
+fa4a1199-69e0-46a2-8516-1cdfb2cc5c39,470,"Gonzalez, Sawyer and Garcia",2024-01-12 20:40:12,True
+e1ce6b22-bd50-436d-a5c7-f58300d50301,677,"Graham, Martinez and White",2024-01-18 19:45:15,False
+c9f10d65-94b5-4b23-87e2-94bd3cc1aa79,709,Aguilar Group,2024-01-01 14:35:14,True
+c885171e-02d1-4f4f-b02a-93367182b5f1,693,Wood-Cook,2024-01-07 02:14:25,False
+18f79f29-dffd-4c0f-a269-c36697c0bc2c,203,Jones-Holmes,2024-01-08 07:29:50,True
+b51e103f-fca0-4e7e-b522-92afd13aee98,277,Cross-Cook,2024-01-04 10:30:00,True
+03de8451-cc9f-4f70-ab7c-82f9de4f86ce,470,Thomas-Wilkerson,2024-01-16 15:01:25,False
+19345def-29c5-416a-8989-9e42fa64f40b,931,Hall-Rangel,2024-01-04 13:27:11,True
+8595b8d4-be66-45de-9649-41ef97ff868a,136,"Smith, Mccarty and Bowers",2024-01-11 19:38:27,False
+09af33e2-5c36-441a-aecc-296bd7966efe,986,Castillo and Sons,2024-01-18 03:36:28,False
+171458ce-8a1e-4d0c-aa54-09d7002713e3,191,Jones and Sons,2024-01-10 05:17:03,False
+b440969c-b5d2-4568-9134-f2a30d461d9c,9,Hurley and Sons,2024-01-08 22:43:07,False
+feaa99dd-0247-4fc4-b375-926c49cf8d67,250,Wilcox-George,2024-01-16 12:36:10,True
+1fd8345f-e57e-4052-9ee6-6bf62612f616,601,Castillo Inc,2024-01-03 14:53:06,False
+c2c6115a-0b42-4295-b0b4-d122d5ceee0d,403,Edwards Group,2024-01-18 12:22:48,False
+8d5eb536-a4c6-406f-b857-296baf7c43be,577,Mosley and Sons,2024-01-17 00:52:34,False
+52f38c98-8bd2-4523-9ab2-4130fc109e3a,912,Lane-Lewis,2024-01-19 22:37:42,True
+b7a44b39-5423-42ce-a188-b73ac98a73c2,430,Bennett LLC,2024-01-01 14:49:26,False
+429f71ea-d320-45f7-bd62-b46716bef3dc,438,Anderson and Sons,2024-01-07 16:54:28,False
+d10f2f12-5851-4589-a2c9-0322a835e481,596,Contreras-Flores,2024-01-03 07:04:15,False
+160cf187-5696-40ca-bc59-5b0f52642558,167,Melton-Marshall,2024-01-09 23:44:25,False
+79bf9fcf-a810-4a83-82c5-9c5e39556be2,584,Roman and Sons,2024-01-11 14:35:40,True
+c8dbd77e-19d6-4a8b-8a43-41d2903c9841,167,Jacobs and Sons,2024-01-05 11:34:22,True
+c8c4289e-1f64-4b74-8370-743a0b3ab214,992,Morris LLC,2024-01-17 10:30:48,True
+b57decea-00f4-42a4-92dc-5165e105cd61,559,Grant-Miller,2024-01-19 17:41:08,False
+40801dfd-f460-4aa1-974e-cc2c3285bc74,746,Castaneda and Sons,2024-01-15 05:29:06,False
+433846e7-e224-4ba2-8f03-6c128b63fcb5,678,Johnson-Bishop,2024-01-06 00:55:18,False
+d81b35ac-b78c-4f30-bbbd-c62acd774bb4,698,Bennett-Mccarthy,2024-01-01 15:01:44,False
+b721265c-0dba-41af-a635-bfb17503a515,98,"Lee, Erickson and Molina",2024-01-04 06:31:15,True
+16115e25-ce08-4d42-83bb-92ff96f600bb,25,Thompson-Gallegos,2024-01-08 15:14:47,False
+ffa367ea-20fa-44a2-a7ae-5892214d36d6,868,Gray-Ochoa,2024-01-12 23:09:25,False
+e72e689e-5cf3-4428-a9ec-e16a1ca65899,346,Houston-Thompson,2024-01-15 16:49:55,True
+6550bf64-5428-4a4e-a7e0-49ddb50fbbc1,513,Davis Inc,2024-01-16 19:20:01,False
+3acc2200-01e4-4a01-901d-23ea1541a628,939,"Hess, Bell and Johnson",2024-01-17 13:36:40,True
+70f3a70f-4a6b-4102-a362-d8c0fcc4e63b,692,Castillo-Dalton,2024-01-19 08:02:21,False
+611e637a-6ba6-4bc9-a909-b14711433343,299,Terry Ltd,2024-01-04 05:07:03,False
+c84ef46f-5594-4b25-9f9e-9d4ab7593420,742,"Wright, Benson and Williams",2024-01-16 17:00:51,True
+15c09c86-cf01-4569-b026-d8520c98da20,78,Green-Taylor,2024-01-04 12:11:38,True
+8f2338e2-b57a-4340-a07e-083d21869abb,830,Perez-Evans,2024-01-18 19:45:51,False
+54b8e6f9-5c4e-4f76-a70d-ee6340144446,556,"Stewart, Hall and Scott",2024-01-15 07:08:27,False
+38ce0f71-cf50-4ebf-9645-1a90ec1c80d2,918,Gonzalez Group,2024-01-09 17:43:09,False
+6f49f412-594a-4411-ba34-fb8433ce4553,814,Parks Inc,2024-01-18 01:42:25,False
+5d1d0c28-67e6-4977-9fde-e16ba55b08b6,29,Bauer-Jones,2024-01-18 00:15:26,True
+532bcb02-e344-4bf1-b26d-163ea15d7ec4,621,Davis and Sons,2024-01-10 08:10:35,False
+b6c78b56-8b32-4484-8299-c02e102f24ae,12,Frazier-Liu,2024-01-14 16:34:08,True
+55486ac7-b757-4405-a21d-2d4de8b2db4f,163,Clarke-Nichols,2024-01-18 05:52:19,False
+1aefd13c-afcc-4d1f-bb81-a23ce9891a38,536,Dickson-Reeves,2024-01-14 03:04:19,True
+59c5d328-90d5-4c32-9a66-e08873b655ab,824,Smith-Moore,2024-01-10 20:57:31,True
+ad2a58a0-5591-4700-a749-b06cdb3afa96,354,Clark and Sons,2024-01-08 09:14:34,True
+d612d06d-64df-49ef-955a-95f422371e5e,9,Flores Inc,2024-01-05 04:23:39,False
+37aa0cbf-3ea9-4264-bbe4-9d09feef74a7,777,Taylor-Moore,2024-01-16 08:05:06,True
+91b194ab-09cb-45fb-9935-49773245c984,723,Rios and Sons,2024-01-06 15:13:30,False
+fed505ab-d31c-4166-a643-9006b1cd18d1,31,Henson-Hernandez,2024-01-07 23:00:30,False
+2c9fc7ed-abdf-45f8-ad53-ed4dac5a4607,360,Moore-Kaufman,2024-01-07 07:57:27,False
+77c6041b-c0a8-4213-9e5d-3694059130e4,130,Archer Ltd,2024-01-07 22:42:23,False
+191a5322-0351-4da2-bfca-82aacb939470,787,Johnson-Perez,2024-01-09 07:19:09,True
+c2040063-6eab-4dfb-b3ce-e8eae4eef22f,426,Moore PLC,2024-01-07 19:14:25,False
+413d58a4-4116-4055-ad9d-d61a8a0ace1b,578,Nixon-Gray,2024-01-04 08:59:20,False
+34ce0619-f73a-4727-bff4-94bef5fe7d96,251,"Cole, Weber and Patel",2024-01-08 23:54:07,False
+aeb16b45-9806-4284-bc7f-97a97f843c40,615,Cain-Fisher,2024-01-02 15:22:19,True
+1de67e57-46bc-4f4e-bc6d-fbaed0b726fd,224,"Anderson, Perez and Campbell",2024-01-11 02:49:24,True
+057f8618-a308-43b0-8245-855ff30a39bb,3,Berg-Johnson,2024-01-11 00:24:51,True
+288517fd-4d41-4e19-add1-e342c041be4b,444,Smith Ltd,2024-01-04 20:36:55,False
+5c1c3f8c-e0d0-46d0-a820-55d23e1805cb,530,Harrison-Haynes,2024-01-05 14:08:33,True
+f4a80e98-6ea6-47d1-be46-860808fee5ad,34,"Lutz, Wright and Diaz",2024-01-05 07:53:44,True
+16b07d6f-0350-4f1a-9f16-e86aa24018d4,991,Thomas Inc,2024-01-09 08:38:32,True
+81e90b2b-3f97-4c50-b65c-0e9d3b90a911,714,Higgins Ltd,2024-01-04 15:29:40,False
+8b61d81e-e27d-4c73-a190-433ded2024a9,255,"Ortiz, Brennan and Myers",2024-01-09 04:25:53,True
+9b9e153f-56fd-4691-acd3-89867d49e422,70,"Perry, Price and Hunter",2024-01-03 07:59:18,False
+86c3285b-94d9-4c3b-bb70-580c9ba61ccb,292,"Jackson, Pineda and Miller",2024-01-06 22:37:22,True
+96cfa15c-b636-4594-9c86-0ec0930b0d65,9,Thomas PLC,2024-01-06 21:19:49,False
+ba5696cf-a248-43a6-8ce6-f11a3843e8b3,550,Estes-Mercer,2024-01-08 03:10:35,True
+92f9e5e7-5837-4d87-8002-82bf508915f2,501,Logan and Sons,2024-01-17 07:18:56,False
+e6e5e439-d1b7-4310-bef5-ec1f859cd160,337,"Barnes, Harris and Rodriguez",2024-01-13 09:36:33,True
+2afc20f3-06ac-4642-a6c3-358ec465b89b,685,Moore and Sons,2024-01-05 18:48:06,True
+c7fbf235-1e6d-47f3-af6a-106bfc869a0e,300,Carter-Lee,2024-01-12 16:52:03,False
+bbc51fb3-7ecd-427e-8f4a-fced5a538406,341,Brock and Sons,2024-01-04 16:51:26,True
+cb9a28d5-3e33-4308-a847-4570125abbcd,197,"Howard, Hughes and Arias",2024-01-02 19:51:07,True
+c39e4eb3-3374-4d29-8b86-f39c2451c3fa,860,"Collins, Martinez and Cook",2024-01-18 01:08:49,False
+473f8338-28ea-4630-9b36-49daa16695ec,696,Davis Ltd,2024-01-09 08:49:02,True
+78ed3a14-a569-48e0-b75a-6485bd550a96,559,"Cole, Vang and Miller",2024-01-03 02:47:36,False
+0d1b6220-4124-44d6-8965-780f628d7f2b,646,Rose Inc,2024-01-01 07:57:14,False
+d4413a33-839a-4caf-9032-266c9ceecf24,962,Baker-Banks,2024-01-16 07:08:30,True
+052288a9-2bc2-4319-a1a7-7918b2983669,878,Davis-Hoffman,2024-01-14 01:20:02,True
+e5f51410-b3a1-4b4d-a6c4-284c19bbdc1b,153,"Mcknight, Briggs and Pearson",2024-01-16 05:30:30,False
+f21c3a42-09cd-4343-94d1-18c3f4a1cb8a,151,Benton Ltd,2024-01-19 22:33:25,True
+0cf5bb08-63bb-4086-a2dc-1efc28b2d667,986,Avery PLC,2024-01-05 22:14:09,False
+532db75e-6bf7-42f7-8d75-05fc6bf68fcd,302,Wells and Sons,2024-01-01 22:15:22,True
+0c62437a-c3bb-42e8-9e16-ec4ca0004765,622,Watson PLC,2024-01-06 05:18:06,True
+0710f960-bfc8-4cca-a0f9-d9181dfe19ab,86,Barr-Craig,2024-01-01 14:25:32,True
+bb33da39-1cac-4725-bc49-0393616cbf3f,569,"Moore, Peterson and Cox",2024-01-11 21:10:37,False
+67202ec1-b634-4203-bb05-1e48e5954713,45,"Howell, Stephenson and Kelly",2024-01-13 08:34:26,False
+29fcc820-a05b-4eae-bc0a-ad4f3e7e07d0,970,"Williams, Kirk and Young",2024-01-04 12:27:41,False
+5559fd08-eda4-483c-8efb-053971b91c35,136,Waters-Grant,2024-01-09 01:56:29,True
+805f62b6-1e4a-4e09-85ec-cb681525fa1c,622,Bell-Kennedy,2024-01-08 11:22:02,True
+d8aa2707-0e1a-4ee7-ae6c-4d40462a55fa,576,"Smith, Johnson and King",2024-01-03 15:14:05,True
+996c461a-23a5-4eba-960e-e546fd3c3afa,550,Werner Inc,2024-01-12 01:35:21,False
+21e37b4b-dc71-462b-a772-d0cb87b841db,418,Murphy and Sons,2024-01-11 10:41:07,False
+429a2f1d-9196-4710-9094-e8f04348c636,241,Robertson-Ward,2024-01-04 00:12:18,True
+3305d317-50d1-45d4-adf7-6fb9079c729e,780,"Sanchez, Butler and Sanchez",2024-01-09 04:10:37,False
+047bd1a9-d447-40e3-b004-828ebce43b45,920,Silva-Baker,2024-01-13 16:48:14,True
+1f2f7b55-3413-444d-b6f9-8cd6270dc026,288,Morales LLC,2024-01-08 15:00:33,False
+f21413a6-8c11-440d-afc2-e113e1860eb0,546,Murray-Orr,2024-01-03 02:14:51,False
+ad4fc703-aacb-49df-8cbf-1102e1a23a6c,333,Collier-Ramirez,2024-01-01 07:05:54,True
+7d6c72c3-85dd-4588-b6f1-3def8ab46390,612,Mccarthy-Franco,2024-01-02 05:36:22,True
+4570e3ed-92b5-4034-b8fd-abc2039faeac,734,Morales Group,2024-01-12 20:43:38,True
+4594756e-f5d2-480b-813e-74781b8a96e5,49,Wallace-Bright,2024-01-12 06:24:59,True
+90ff0092-86a3-4af3-9d38-1fc87cb5f95d,325,Compton-Lewis,2024-01-03 19:48:29,False
+213cd696-c653-4dcd-a833-c4299d61eda5,35,Daniel and Sons,2024-01-16 13:31:13,False
+4bb7daca-4a8b-446b-8a1c-2e0cea87de17,292,Cook-Murphy,2024-01-12 21:08:07,False
+f6726dd2-e2f4-45da-888d-e2a63c3df5b8,722,Hill-Fletcher,2024-01-19 17:29:42,True
+16f99b64-4697-4361-a08e-a9d711ee5e18,296,"Lopez, Reynolds and Jones",2024-01-04 11:53:54,True
+c6bbf8e0-1791-46cd-8bac-255344da152d,540,Olson Group,2024-01-03 12:07:34,True
+8748e2bf-ddff-4536-8c7a-19e74c30aa66,688,Phillips Group,2024-01-03 11:39:37,True
+168b3ef5-a75d-40e1-8366-537c78df1b95,998,Williams LLC,2024-01-02 22:57:01,False
+cbd40b56-47e9-4bf4-a14b-858749e29155,589,Hayes-Weaver,2024-01-11 03:58:57,False
+5b046a60-cf25-437c-a98b-71d72e7996c7,544,Harris-Morton,2024-01-16 16:40:09,True
+23fcd8a5-e0ca-40c7-8fc2-9a5bfa69b9ae,795,"Cruz, Lowe and Sexton",2024-01-12 13:29:19,False
+8942e191-3590-432a-80bc-f2e3db0e4335,591,Moore-Jackson,2024-01-09 05:52:54,False
+03ee7ab9-df71-4ea3-bed0-993774661a2b,438,French-Farmer,2024-01-03 00:47:40,True
+d439b15a-751f-49dc-88bb-b5bad17ff6a2,936,"Harrison, Johnson and Lucas",2024-01-01 07:56:52,False
+1252aa99-ee86-4adf-b65c-4e411486dac0,265,"Kelly, Humphrey and Powell",2024-01-10 19:44:40,False
+32cf7b12-53a8-4623-a23a-92e5203fa40f,113,Cooper Group,2024-01-17 14:38:33,True
+5e57d5f8-bd9b-4a8e-978b-2229d68a7149,301,"Smith, Hernandez and Williams",2024-01-07 04:24:07,False
+e5576328-c120-4266-9ec5-1fecaa3ac828,684,Woodard Inc,2024-01-17 09:41:59,False
+a345503e-5912-4ed8-a477-0205b541f3ba,394,"Hughes, Flores and Howell",2024-01-06 18:04:55,False
+63e3f0d2-5298-4f21-9107-7f52f27cb477,489,Kaufman-Pena,2024-01-18 07:12:09,False
+918c4e94-dda7-44db-821c-85224b478433,544,Cook LLC,2024-01-08 09:44:06,False
+e6828ee2-1b59-4115-b79f-39c3f897bbd5,925,"Munoz, Benjamin and Flores",2024-01-09 08:56:57,False
+9422a955-1b2f-455d-b246-4490984faece,473,"Ellis, Webb and Butler",2024-01-17 03:30:20,True
+f0f6fe23-4157-42c4-b773-33cac7eda592,745,Vaughan-Moore,2024-01-18 18:32:37,False
+01ccafc0-e040-4a14-8a09-98fa839a2a79,131,Smith LLC,2024-01-16 04:16:09,True
+cb49d9e2-7694-41e7-a462-fbf1525369cc,346,"Cook, Carr and Mueller",2024-01-14 14:31:31,True
+6a29b42f-e6a3-4fb3-93a6-1b6dac07adf9,391,Benitez-Williams,2024-01-04 05:26:50,True
+4bc9b992-80ed-4b7d-be47-69d7f1049d39,354,"Montgomery, Rush and Carter",2024-01-17 14:20:16,True
+cd63522e-a3e6-4718-8409-8bb5063e095b,142,"Poole, Castillo and Boyle",2024-01-11 08:50:34,True
+3900dd5e-f74d-4f7f-b2c5-f44c5f53644e,623,"Smith, Boone and Hanson",2024-01-15 11:09:40,True
+b8a5f89c-d0c6-4313-a263-2cd37e622afd,545,Bates Inc,2024-01-01 08:06:13,False
+10f79d8d-3cfb-43ee-a704-75669554d7a2,439,"Jackson, Moore and Cummings",2024-01-14 03:32:42,True
+3cf853fb-abc1-45b1-96e5-493889e62fc0,541,Williams PLC,2024-01-01 15:38:34,False
+ca9fecd4-5a0a-404f-8d99-b684ae89f6fa,384,Carter-Anderson,2024-01-08 14:32:56,False
+0aa4788d-0079-4567-aa12-7f33091695ff,739,"Jimenez, Murray and Underwood",2024-01-15 16:38:58,True
+4f899c34-e8fa-4fac-8668-19fb044a394c,777,Jenkins-Sutton,2024-01-02 12:07:28,True
+0140b555-bf4d-4e95-bd57-fcdd1927b9fc,693,Ho Ltd,2024-01-06 19:53:35,False
+3ca0ad53-3ba2-4b08-80cf-26321b215e18,287,Rivers Ltd,2024-01-08 22:47:23,True
+a9b638ea-dc15-4020-92a4-62e582ddc0b9,718,Bowman LLC,2024-01-18 04:31:59,True
+7a895219-503e-432b-9a1e-03d9cad61dbb,881,Brown and Sons,2024-01-05 03:47:02,True
+bb70cbe6-860f-4d5b-96b9-9517b4a7a13a,979,Mitchell and Sons,2024-01-01 17:07:56,False
+39fd7be3-10a3-4501-928a-2f15b12d10ea,921,Chapman Inc,2024-01-01 22:15:07,False
+aebed031-3986-4621-a8e3-2d5c1d6a805f,607,Mitchell-Clark,2024-01-02 04:34:27,False
+51a6c059-2bd1-4d4d-8696-80424496074e,545,Thompson Inc,2024-01-18 08:31:34,False
+f076bbe4-5bb5-4a4c-8558-24cba4bb4d8d,292,Cooper LLC,2024-01-04 20:14:54,False
+cb7f906f-0141-4338-a3ad-81e1835ae75a,688,Hicks PLC,2024-01-14 14:52:48,True
+fc746660-43e1-4136-9631-8123846bca91,753,Lewis Inc,2024-01-01 18:41:49,False
+840de6e2-c85a-488f-a96b-010dee433977,325,Shaw-Lopez,2024-01-14 08:16:36,False
+3fe1676a-2c22-4108-b7f9-241284fa594e,267,"Morales, Riley and Jones",2024-01-15 06:06:48,False
+a8ba2060-410a-4bf7-b5b9-8b3392f019b0,581,"Jones, Black and Rivera",2024-01-10 21:07:23,True
+27312e5e-b354-4b65-b57d-b6f798cae0d8,171,Ryan Inc,2024-01-07 19:37:00,True
+d7662c35-7252-4211-8bf7-c9842d08f48b,173,Moore-Holt,2024-01-04 05:09:36,False
+32ddca38-2362-4fa6-91f4-ad566cf6e946,866,Ray-Lin,2024-01-05 11:39:43,False
+eddcf195-8071-4fd4-b724-73e1b5e7f86b,113,Jones LLC,2024-01-03 18:53:37,False
+f913d6c0-73bd-46b1-89ed-a0b50518788f,462,"Smith, Howard and Guerrero",2024-01-10 01:46:34,False
+f675b0b3-76de-4a8f-9883-d873526a0913,97,Jones Ltd,2024-01-18 16:51:19,False
+90ef14e9-20af-485f-acd6-d98cc59d3871,881,Wong LLC,2024-01-02 20:19:04,True
+fa7ee901-3d73-409c-865a-2afdf875cc89,229,Cisneros LLC,2024-01-04 03:57:58,True
+2bbac0b3-44f1-4931-92b3-cbe679b1e06f,531,"Pham, Thompson and Christian",2024-01-10 18:11:28,False
+c04d66e0-81f2-443a-a8d4-3039028c64d2,351,"Robertson, Watts and Espinoza",2024-01-07 17:59:22,True
+06fda64a-19a1-4fee-9ff4-62d737caf7c8,302,"Smith, Thomas and Hill",2024-01-09 20:47:48,True
+dc600ea2-4a77-4b89-a8cb-ce024406d928,54,West and Sons,2024-01-15 17:07:06,False
+e6a31950-e655-4cdc-88c5-98a83be088a0,707,Bass Ltd,2024-01-15 22:32:09,True
+2fc10e33-c460-41e4-98d6-7cbb1ac9263b,760,Wright Ltd,2024-01-18 23:01:27,True
+948176b3-98da-45ca-81a7-4fe68f32792a,467,Davidson PLC,2024-01-13 09:26:33,False
+f79b1471-7110-4091-ac82-97061a9dfcba,882,Gonzalez Ltd,2024-01-05 10:48:12,True
+85e1bd28-5b93-46f4-8a3a-8fc3307db85a,613,"Figueroa, Sosa and Snow",2024-01-13 01:15:16,False
+b2b92c22-7cdb-4886-b556-9f04ca61d5e8,247,Cook Inc,2024-01-11 04:51:50,True
+0d3f1fec-d545-4872-bdca-351973e9fd22,413,"Hicks, Berry and Potter",2024-01-03 15:49:38,True
+11cd39d5-3992-443f-ad0f-96037378d493,939,"Cox, Zimmerman and Boyer",2024-01-07 23:17:05,False
+e62d809c-ab46-4436-9ebc-df178e2fc5c5,783,Gray-Ellis,2024-01-16 01:06:16,False
+d4fdb4f5-b63e-403b-a019-2d0f4a23b084,783,Lee Ltd,2024-01-08 17:47:16,True
+50cc21e6-cfb7-47fa-95d1-30494819e53f,838,Hicks PLC,2024-01-14 03:20:35,True
+621e3b1a-add5-4592-b6b0-e88fb6817e5a,852,Adams LLC,2024-01-11 06:21:13,False
+c728925a-3f50-4267-84d7-52bc0beae046,820,"Miller, Cruz and Evans",2024-01-19 10:36:02,True
+9be1823a-1e1e-4f9f-8033-fdfd6f86488a,7,Beard-Tyler,2024-01-08 12:30:14,False
+4cde82db-ec96-4057-b7a0-bbbd89e6687d,65,Fernandez-Ortiz,2024-01-10 21:08:54,False
+f2059bda-9836-410e-8748-b6ca97252101,963,Lee-Olson,2024-01-04 09:47:42,False
+c0d91683-ba67-452e-8a23-2bae7c3e92e5,966,Jordan-Richardson,2024-01-19 02:41:52,False
+0dcf5096-0119-4b64-856a-fbcaf972006b,650,"Eaton, Martin and Knox",2024-01-13 17:04:48,False
+8ea01f49-8d31-47de-995b-2bf230f9a960,672,Hoffman-Foster,2024-01-10 00:45:04,True
+1fbb6484-bf81-4103-b34f-b01582605ffb,932,Davis Ltd,2024-01-11 17:37:05,True
+bb52f782-a6f4-422c-841c-0f4f42469ea4,42,Allen-Johnson,2024-01-09 00:58:23,False
+db4a32d3-2724-446e-b6a1-39193706db61,247,Ware-Rivera,2024-01-04 15:15:45,True
+96cccc72-1905-49b4-966d-e5d1fa56868c,652,Cochran-Campos,2024-01-16 10:26:26,False
+f81b97d4-6344-4054-9511-e26cf01d1a19,39,"Sutton, Gonzalez and Soto",2024-01-18 23:06:32,True
+0355d09b-e747-432d-97f3-ff6cb0d825e6,731,Zavala-Valencia,2024-01-10 01:41:04,True
+be483900-5599-4c64-8d4f-ffb35c709fc9,531,"Jones, Mcmillan and Decker",2024-01-13 00:40:43,True
+27d64fce-e1c0-45c0-9599-807bf925ba40,316,Jones-Wang,2024-01-06 01:30:22,False
+3d0625da-c477-4f77-8084-43def9020b57,252,Lee LLC,2024-01-18 12:14:36,False
+97d8445b-f8a8-4cb2-8a89-45ff0c462cad,456,"Rodriguez, Oconnor and Garcia",2024-01-02 04:29:00,False
+e63614b3-95a0-405f-b13d-80624494e791,684,Wilson and Sons,2024-01-08 00:34:39,True
+b5a28049-41a8-43c3-b59e-faeb48296f65,708,Rodriguez LLC,2024-01-02 11:22:10,False
+5d95bcdb-1fd4-4b14-b778-3f5b828a8ecb,814,Potter-Santana,2024-01-19 16:59:00,True
+86ccc448-9796-4479-97e6-328b9c4f5110,581,"Fernandez, Harris and Mooney",2024-01-01 11:56:39,True
+a7abd1d2-72b7-42f2-9c14-6ee20929f8df,840,King PLC,2024-01-13 15:57:57,False
+dbd8b9df-f3cc-4802-8470-3b1993883e63,998,"Collins, Ford and Gentry",2024-01-18 05:16:13,True
+150c9240-36c1-474d-a042-dacd6b02aac6,903,Burns-Wright,2024-01-18 13:32:10,False
+a8555b83-1feb-4ccd-8aaf-c1f4266c7597,904,Rodriguez Group,2024-01-17 23:19:35,True
+a39968ed-1500-483d-aaf6-b5a3aeb171cf,478,Raymond Ltd,2024-01-08 13:44:22,False
+07dcfd04-625f-4a44-9e61-d973ee3e7364,499,"Malone, Summers and Young",2024-01-04 18:42:32,False
+c3291066-3d12-4e11-982d-070c22a55b57,166,Andrews LLC,2024-01-19 16:22:07,True
+037db111-468a-493d-a0f4-d72b93c809a5,237,Wolf-Key,2024-01-07 18:13:15,True
+a430e045-f91f-46e9-b36c-81f9d9445884,175,"Ross, Garcia and Lamb",2024-01-13 09:14:32,False
+fd8bda90-4b93-464a-a206-e671bf12fca5,970,Weeks PLC,2024-01-05 01:49:02,True
+74927504-8842-4d53-add2-0141a5456847,814,Morales Group,2024-01-16 05:48:56,False
+9c14f935-8e02-46d4-afa4-954276c81096,638,Weaver-Long,2024-01-19 17:40:09,True
+c130aa2f-3c9a-4552-aa73-032031c0d030,761,"Patterson, Hogan and Wilson",2024-01-15 02:07:44,False
+a3e39bf1-c0e7-4457-be3e-6545ca28c6c9,925,Terry-Murillo,2024-01-02 21:30:24,True
+4776cbab-71e6-41bf-b6b9-0f61b353fdfe,687,"Jimenez, Kim and Ortiz",2024-01-10 01:28:46,False
+afc9d3fd-5b09-430f-8ab6-c8134129c472,305,"Stephens, Chaney and Williams",2024-01-02 22:10:36,False
+2390fad9-66cb-4969-aa50-5b123403adee,677,Evans-Moore,2024-01-09 20:23:01,True
+c9751935-31ca-4511-9055-fe38f5715cdc,795,Flores-Brown,2024-01-09 22:54:29,True
+c5547e7c-ed71-4531-bf61-b29e303f544b,265,Martinez-Jackson,2024-01-02 21:44:04,False
+e8cd52ca-6428-4e7d-b6ab-a37143db9a6b,463,"Wood, Brown and Grimes",2024-01-04 14:39:20,False
+2a5872df-8ac9-4deb-aeb5-31d5bd36afda,367,Blanchard PLC,2024-01-18 08:51:29,True
+1fa9fc79-3239-4f06-88c6-bf76bfbd5ebc,306,Knight-Morgan,2024-01-19 12:57:53,True
+143a685c-0e66-4ff7-a913-10b79f533f96,958,Woods-Barry,2024-01-03 22:37:14,False
+0df64012-71e2-473c-83c0-1138d813e3a8,170,Parrish and Sons,2024-01-02 11:19:23,False
+d5c5d31d-75f4-4da8-b19d-dceeb287ebd1,944,Blackwell PLC,2024-01-07 15:05:18,False
+4f1a2633-d9c3-4ebd-8afc-a8324912f088,253,Guerrero Group,2024-01-01 11:37:07,False
+e7163d33-2a67-4a07-80c6-447b7dc4ef3d,137,Koch-Nielsen,2024-01-07 10:20:17,False
+1100e66c-8b5f-4ca4-a0b0-290eac4e135a,105,"Brown, Fletcher and Morris",2024-01-20 05:49:01,False
+80bb3ec5-0621-4521-88c4-4770165848e1,832,Harrison-Watson,2024-01-18 16:11:52,False
+57965acf-f052-4cf6-9d41-7d846e97faf4,91,"Jenkins, Rodriguez and Gordon",2024-01-09 06:30:36,False
+118a4415-b4ff-4afb-84cc-9c56e52e4f2c,907,Wood and Sons,2024-01-19 02:31:44,True
+defb96ce-a379-4371-b34d-cf51a3e3cced,336,Macdonald-Browning,2024-01-03 11:49:12,True
+82e834c0-bc38-4aa2-9fcd-8ebf85abbfa9,355,Everett Group,2024-01-05 01:46:40,True
+f1010d4f-71bd-4ae9-9328-f4fb582fb7b3,869,Serrano-Riddle,2024-01-14 01:32:25,True
+c243c3f2-f70f-4569-93ca-4db896b5ddb7,60,Evans-Wheeler,2024-01-03 11:51:06,True
+93f50e68-63f2-46a8-98fa-321166db9f2a,267,Carter-Robinson,2024-01-09 05:44:24,True
+43c77908-ef2a-49da-8efd-c3c79e6647c4,655,Townsend-Murphy,2024-01-11 20:11:42,True
+65e9d9c7-93cf-4d7f-8f04-11011c7f2e88,61,Simpson Group,2024-01-04 09:43:08,True
+c12c4945-e18f-433a-b305-5e8c2639e86b,562,Lane PLC,2024-01-04 22:23:20,True
+144119b3-8796-43fb-9270-5bd9331a9a2f,149,"Patterson, Moody and Townsend",2024-01-07 15:07:42,False
+bb0ea76f-86b7-4815-9a4d-df42bf9c4cae,325,"Harper, Bennett and Wilkinson",2024-01-17 04:56:27,False
+360d0eb6-c5c8-4dcd-9b2e-52429103264e,817,"Saunders, Washington and Reeves",2024-01-09 23:07:57,True
+f1290b88-94a5-4e90-be64-383be7975beb,679,"Rangel, Gardner and Soto",2024-01-06 14:33:54,False
+51b9454c-824c-4f73-8ee9-bdca12507f5f,31,"Sanchez, Allen and Welch",2024-01-09 04:07:35,True
+cc7b161a-56b1-4044-8d84-860056e0688a,740,Wilkinson-Ward,2024-01-10 05:09:34,False
+f76018b3-4431-4a3e-ada6-3b6e20b2d4e6,232,Munoz and Sons,2024-01-04 22:31:55,True
+8f17be63-cc1b-44e8-97d4-6ce38c3b517d,496,Sawyer-Herrera,2024-01-05 14:37:33,True
+bccd9ad9-29f1-475f-8399-e23ae0c546c2,923,Brown Ltd,2024-01-08 06:04:43,True
+55e726ad-a86d-4664-8a0c-dca65e7edea6,769,Hernandez-Olsen,2024-01-08 10:43:54,True
+e418ca35-fc8f-43dd-ae7c-966e9c07013f,349,"White, Green and Holmes",2024-01-19 14:41:11,True
+d59d0859-c027-47fc-b6be-c9fa90970fa0,718,Johns Inc,2024-01-12 20:23:50,True
+ca19f5b6-74f2-4e46-be2e-bb61a4421b42,617,"Munoz, Horton and Giles",2024-01-12 20:15:08,False
+4e5d77a0-397a-4c01-9d19-8b97f61c65a6,168,"Jackson, Leach and Roman",2024-01-06 15:53:51,True
+62df6fec-2b06-4db1-a7ef-b6517fc7b907,229,"Juarez, Fisher and Mcintyre",2024-01-06 12:00:00,True
+20c822df-0020-476a-89cd-50e8699f15d9,897,"Morton, Ponce and Kim",2024-01-05 18:47:02,False
+f5662572-b51d-431b-8823-dc22ceaee887,239,Anderson and Sons,2024-01-19 11:07:59,False
+e3405539-5b68-441f-acf4-c203aa6e441e,604,Young-Huber,2024-01-17 17:26:09,False
+2eb24a8a-1e9e-446f-bd78-33354dfe7b13,939,Burns and Sons,2024-01-11 22:14:33,False
+bf0a8d19-d1fc-462b-9769-4a9265c673a5,385,Fields-Nixon,2024-01-11 23:17:02,True
+53908aba-fa3b-4c9f-88a3-e0694d380da5,439,Allen-Austin,2024-01-07 21:50:46,True
+cd70a069-7bbe-4cc1-a7a7-4393b8862285,158,"Lewis, Bird and Lawrence",2024-01-14 03:25:04,True
+d67f261a-2e52-4816-bb0c-ef9ac641e9bd,450,Stewart PLC,2024-01-06 14:37:28,True
+76e48455-1c27-4ac8-b997-7c09248f9bbb,425,Butler-Rivera,2024-01-14 19:48:30,False
+148c6cda-beb4-4361-ab26-eeec6554f28b,484,"Williams, Ramsey and Lane",2024-01-19 02:44:04,False
+eb09b763-55f1-43fa-a58d-36b4c3cc2e23,858,Taylor-Sanford,2024-01-10 18:57:13,False
+aa8b70de-eb76-4d2b-a057-4281b5029a1f,470,Ford-Edwards,2024-01-08 01:15:37,True
+b65f811b-118e-467c-aa79-74cf0403547f,769,"Morgan, French and Garrison",2024-01-09 23:26:54,True
+7b4eaac5-d7d7-400b-8819-ca5e84fde244,768,Davis and Sons,2024-01-08 04:37:37,False
+b5662214-00e8-41fa-bbff-e14442e54f62,441,Moreno PLC,2024-01-11 06:49:32,False
+155cbe33-357a-4e7a-99b9-8ebbeb4421b8,516,"Macdonald, Gay and Wilkins",2024-01-11 20:50:54,False
+0243a29a-dc00-4276-bb26-f24795e716d0,713,Sutton PLC,2024-01-11 11:32:50,True
+19b2e925-3661-48dd-938c-f2e39f9474ae,410,Wang-Holmes,2024-01-01 03:28:49,True
+a57083d0-3d56-4684-a262-806af59696f8,92,Peterson Ltd,2024-01-06 08:11:48,False
+2ea8a27b-2d29-4ad1-97cb-49090deb5852,324,Horton-Lyons,2024-01-04 23:49:12,False
+14a97881-f701-418f-b6b1-f55c4cb15af5,56,Brown-Rangel,2024-01-06 02:25:19,False
+40913c40-1265-4fea-a305-31805e84816e,1000,Burton Group,2024-01-18 06:19:32,True
+d4dadea1-9fed-40da-9312-8d23eaccd902,200,"Williams, Davis and Hunter",2024-01-14 21:37:50,True
+e2bb3eed-098c-4aaa-92de-60d9757d819a,934,Tucker Group,2024-01-09 09:13:27,True
+fc799580-fa65-48b6-94da-7a1980d00084,711,"Hudson, Vazquez and Baker",2024-01-14 00:01:34,True
+bf0ee7d1-1f05-4873-9df5-416b237a2d71,150,Steele-Butler,2024-01-13 18:51:44,False
+485ff8cb-044e-4940-9a4c-7266f22403f1,425,Bridges PLC,2024-01-05 03:32:39,True
+f11bfb53-1125-41c6-9d2c-f39a25c9d59f,469,Williams Ltd,2024-01-03 08:25:52,True
+ab768919-5a43-47ca-a563-bb9bff49e12b,987,Montes and Sons,2024-01-12 08:57:13,False
+68c42471-0e7b-4472-a30c-b1c609f0bb1d,301,Price-Murphy,2024-01-10 09:53:05,False
+373da074-7efa-45a7-bce4-8c422cadd774,876,Perez Inc,2024-01-06 18:10:05,False
+b308407c-2299-49d5-a5a1-8c702f0a50ce,533,Holland-Hernandez,2024-01-15 21:55:56,True
+fe599812-a8fc-4fb7-b459-93b3ff244f1e,326,Andrade-Michael,2024-01-05 02:23:42,True
+934163e1-0cb4-4a8d-a5a2-428f447f2df3,112,"Keller, Baldwin and Moore",2024-01-01 23:33:02,True
+c1460e94-35d8-4d87-a97b-a84e819f1a48,224,Harris Group,2024-01-18 05:09:43,False
+f67d764d-4e5a-4e1b-934d-95a6c7aabf81,535,"Wade, Wagner and Berry",2024-01-05 23:00:55,True
+ff761c99-a2a7-4a79-9250-d19608ce2e47,935,"Benson, Alexander and Hamilton",2024-01-07 19:38:21,True
+9c771892-7950-40e6-8f40-bcfc38579652,203,"Velez, Duke and Watson",2024-01-14 12:30:19,True
+4f9ccee4-87a5-42a4-83ba-8ddf13892a31,498,Garcia PLC,2024-01-13 20:09:22,False
+ff894da3-1019-46c0-bde7-4c567aca93a8,844,Wilson Inc,2024-01-16 19:07:23,False
+0baaba02-5dd8-481c-bec6-1327eae08ff2,41,Richard PLC,2024-01-09 04:08:40,True
+5ebfce91-7cde-44cc-a9af-0086d895f921,834,"Barnett, House and Miller",2024-01-18 15:58:44,False
+4ec2aa14-7287-4c6b-927a-dfaa04b99492,271,Spence Inc,2024-01-07 12:30:53,True
+6a7cc26b-b715-4c50-9c68-6bdb9b29e3e0,376,"Smith, Medina and Mcdaniel",2024-01-07 13:05:07,True
+aaeeccbd-d14b-4c4b-ac40-5fa49033e7d4,204,Olson and Sons,2024-01-12 01:53:25,True
+02f3fa4e-f399-4d51-a624-1def684a502a,953,Huber-Snyder,2024-01-15 06:51:36,False
+81625c4d-1176-4683-b743-1b2a773dd46b,476,Roberts and Sons,2024-01-17 23:49:24,True
+071688fd-2701-4bd9-9efc-b1942852508d,683,Mcknight-Mcpherson,2024-01-05 11:58:27,False
+e5a62f7f-f025-4f54-88cf-915576142e21,434,Ruiz-Norton,2024-01-06 12:14:01,False
+a6f5d14a-6a17-461d-b773-e400a435d318,956,Humphrey Inc,2024-01-06 04:34:30,True
+a0a5f4b2-d555-4047-ac12-6385a9f4238f,507,Kerr-Mcknight,2024-01-11 21:20:56,True
+2a225b23-5eca-47d7-9208-2430bb1b310c,958,Schmidt and Sons,2024-01-08 21:13:37,False
+4a31ca47-febb-457e-8337-43508ed99041,585,Cox Inc,2024-01-16 05:30:30,True
+133994f4-24ac-4d96-89e4-10ee6b6db7c3,66,"Hill, Roth and Collins",2024-01-05 05:26:52,False
+4a7734b8-65ef-46dd-8146-b825a180a690,666,Reynolds and Sons,2024-01-06 09:21:42,False
+13970d1e-1357-42a2-bf7f-6573b6605868,653,Mckinney-Adams,2024-01-02 01:30:33,False
+a34c9148-a064-4d63-b027-995992425ea4,665,Gray Ltd,2024-01-19 10:33:03,True
+5913cf5d-2896-4070-8222-2e472c79d0eb,541,Johnson-Morgan,2024-01-16 13:12:51,True
+62ccb709-9e1a-44dc-a817-34c86c06b593,546,"Spears, Hopkins and Rodriguez",2024-01-18 19:51:17,False
+d154d0b1-c25c-4043-9c0f-85569b69fcc4,300,Ellis Group,2024-01-14 12:18:23,True
+cda30315-3476-486f-afa6-b758e995d4b6,49,"Barnes, Hancock and Byrd",2024-01-15 17:41:17,True
+6900fca5-5533-4bc3-98db-eae0c03b21b7,250,Parker Ltd,2024-01-09 22:03:56,True
+02d049a1-f6fd-409f-b22c-6946b2b0a836,952,"Butler, Houston and Bailey",2024-01-17 01:20:34,False
+1b09426d-ae32-415b-92e7-a2ab37df5a33,182,Sanchez Inc,2024-01-15 07:23:05,True
+1ee3b6c9-7657-43b4-afaf-706ebb8c6e26,486,Larsen-Moreno,2024-01-04 17:56:20,True
+be2f5288-e5dd-418c-8191-cd5205f6be31,495,Henderson-Wagner,2024-01-04 07:46:59,False
+97f8ba05-a2e3-4511-a447-ebdc4d36ba86,31,Duran Ltd,2024-01-07 00:00:49,True
+5ffa3efd-3f9a-48e4-88e3-406d0dc6ba3e,919,Nelson-Bender,2024-01-08 10:46:07,False
+7f4b0fff-8436-4676-b9d9-4b84f8cc6187,834,Martin Inc,2024-01-13 21:41:21,False
+6be6710a-ace4-4e22-b1bd-93fdd2a8fb18,111,Hall-Francis,2024-01-03 21:06:41,False
+6a92c11b-3534-4b18-99ff-9df67880335d,611,Yang-Hernandez,2024-01-04 17:10:07,True
+24ad962b-3384-4a51-9c89-f6fcece9baf2,961,Davis-Gates,2024-01-10 07:06:55,False
+a3726b5c-bcb5-468f-bb0e-a17ac25e3f1f,566,Leonard-Young,2024-01-07 01:00:27,False
+085c9141-0659-48c0-b026-2954d5ce0bd6,1,Hunter Ltd,2024-01-05 11:16:07,False
+7e682fac-8386-43e1-9ab7-2dfaef227ce5,835,Rowland PLC,2024-01-05 18:15:31,True
+a0efa2b4-297e-4228-838f-d08ddbfc06e1,679,Rowe Group,2024-01-12 09:27:35,False
+7b94bd5d-015f-4e95-8414-3aafa007d7a4,579,"Nelson, Jensen and Kelley",2024-01-16 17:35:00,True
+151c4dc2-dbfa-47ee-aa39-cfe17d1d28ae,216,"Young, Newman and Pena",2024-01-12 09:33:48,False
+a63cc2a5-51ff-4691-8831-d88f81d5e3ad,389,Clark Inc,2024-01-04 04:04:16,False
+623d0055-3a9f-4291-bb5c-61024768f25d,875,Johnson LLC,2024-01-05 10:29:46,True
+36f0693a-a565-420d-81bf-f25e98ac5ae1,944,"West, Robertson and Adams",2024-01-12 08:38:27,True
+c25d185f-791a-4c35-8572-d55f4015907b,82,"Blackwell, Graham and Robinson",2024-01-07 03:14:59,True
+5daccb91-f7db-45eb-8d26-2057564761f7,787,Gill and Sons,2024-01-06 10:17:07,False
+9fc19ddb-0d84-4cf1-bb7e-eaaf45f14d88,604,Graves and Sons,2024-01-18 23:38:48,True
+5151dd00-44db-4650-b1d4-7fda0963c52b,49,"Johnson, Barton and Barton",2024-01-14 16:25:07,False
+0f6bf5e6-09ee-4b79-a920-d4d7cb163ad0,771,Mcmahon-Foster,2024-01-01 03:52:01,False
+78f8a1dd-41f2-4c49-b5d5-63ff7533d769,276,Johnson-Tyler,2024-01-05 12:46:44,False
+9bb348cc-9f37-4630-8fce-37ce074b27d7,663,Stewart-Sweeney,2024-01-16 08:38:50,False
+fc022946-9641-4931-aa4c-2e069b12e344,464,Holmes and Sons,2024-01-01 16:58:33,False
+c881bd4f-d436-4e30-a7d8-ed12118d7c2e,674,"Ford, Reid and Thomas",2024-01-03 11:37:41,False
+c5e804a6-733a-4f8a-a1a9-da9a56ab60eb,920,Jenkins-Rojas,2024-01-09 06:58:51,False
+3b0eab7e-783b-4c67-8cc0-1e9b9f15898c,911,Smith LLC,2024-01-03 19:16:21,False
+960f9aa0-6ce5-448c-9def-df39dced3fd5,628,"Clark, Meadows and Lewis",2024-01-16 06:53:18,True
+102a3d7d-a82b-4498-af96-5b422af71044,559,Jones-Moore,2024-01-05 08:50:01,False
+3caf28d1-8ef3-4b31-9270-9c6ceb1b658d,998,"Wyatt, Torres and Cross",2024-01-06 01:27:03,False
+a49a6dde-88ad-4435-96a7-d26a8d716315,29,Thompson-Harris,2024-01-06 02:44:21,True
+1fe6125a-1199-4527-8dd3-1edef48f3544,818,Kirby-Holloway,2024-01-06 05:03:30,False
+c29dd476-23f0-4fe7-9bdd-5677505cf23d,475,"King, Nelson and Porter",2024-01-02 08:38:10,True
+5a0fb6a4-b834-486f-9296-ec2a17585f1d,181,Howe-Freeman,2024-01-11 06:06:27,False
+6c923478-6385-4385-8875-0dfb300e14fb,394,Calderon Group,2024-01-16 09:20:39,True
+60310fa6-2d8a-4873-b0d9-8e5b85fdac29,789,Mills PLC,2024-01-01 08:33:22,False
+3c9f312c-8b24-44dd-bdde-5f1f645a6dda,61,"Alexander, Snow and Walker",2024-01-10 14:54:25,False
+7e9820d3-09bc-4188-a4c5-cc90cd3fa38a,158,Johnson-Evans,2024-01-04 09:51:47,True
+a1ebedc3-41bc-4bf1-89b3-db6686519e8d,355,Gonzales and Sons,2024-01-16 20:47:52,False
+b25328cf-adc2-41a1-89c1-d8e179980286,58,"Thomas, Bailey and Warren",2024-01-18 22:49:32,False
+30f0c444-8044-430d-9de1-b92d8f24477c,350,Fowler-Cox,2024-01-03 17:25:49,True
+1920c737-6ef9-4d4a-857e-ad7df85f4471,34,Becker-Young,2024-01-10 20:52:43,True
+c232a0f7-ecf0-48ea-9b17-a3c5adaf8ca6,200,King-Armstrong,2024-01-07 11:21:05,False
+0d49ac93-a4a2-48c3-beb9-dd7f0760316e,492,Clark-Weeks,2024-01-19 19:08:07,False
+8ce48f2b-65e3-4a10-9118-e5403b6313c7,114,Lewis-Duncan,2024-01-12 00:39:56,False
+4b7aa623-7617-403f-8410-44a60de19b80,687,Johnson Ltd,2024-01-16 03:12:10,True
+4dc8862c-f075-4283-ae2a-6d0fd3ee49c3,890,Kaiser-Obrien,2024-01-03 19:09:03,False
+aed25d00-a2a4-4bb8-a961-e6dc24af25d8,441,Cox Inc,2024-01-17 01:58:28,False
+922e37be-3e31-428d-83ec-bd12402e2cef,209,Evans-Dalton,2024-01-04 01:35:48,False
+2bb63aed-e0e6-45fb-8d59-81c356e2f5be,769,Peterson-Hayden,2024-01-09 08:56:22,True
+631483e1-67c9-4358-948b-c33ade35b95c,686,Kline and Sons,2024-01-15 04:32:20,False
+ca8c6164-cf5c-4486-969d-fb284a3a309a,226,Orozco-Dennis,2024-01-19 20:26:01,True
+ad857f97-f6d2-4e2e-95ea-1438afd3965c,557,Crosby Group,2024-01-05 16:41:44,True
+1ce934d9-2ba5-4796-a717-f2959cab5ad3,506,Spencer PLC,2024-01-14 15:05:39,False
+dee31a11-cc2c-4953-baf9-5b0914aabba4,711,Jacobson-Reese,2024-01-19 03:37:27,False
+7be32422-9c5e-4236-b69c-3e996d3be157,801,"Paul, Suarez and Moore",2024-01-19 01:40:50,False
+a102ac02-db36-46a0-9c6d-a1a57ffb8f5f,805,Dougherty-Owens,2024-01-19 15:06:28,False
+abf58183-3328-4416-a639-d1faebbaa445,531,Ferguson Ltd,2024-01-14 00:52:13,True
+de477354-495b-40bf-a5bb-24519945fbd4,339,Larsen-Miller,2024-01-14 15:20:23,True
+ff4fa1b7-60d6-4f24-9089-71b1fc29cfcc,901,"Winters, Juarez and Clark",2024-01-13 05:23:23,True
+05c97140-b0f1-4aa3-bfc8-809c9509ed57,975,Vaughn-Johnson,2024-01-14 22:02:15,False
+583fff30-7f37-48d3-8e13-f50b0ab22863,39,"Robinson, Russell and Garcia",2024-01-05 23:18:56,True
+c44319d8-b5c4-4998-a64d-9b374a184cd1,600,Barron LLC,2024-01-14 00:52:24,False
+c7ef221e-a548-425f-9dfc-7fc2e29cdd0b,28,Davis LLC,2024-01-19 02:38:27,False
+51d5960e-abb1-4b7d-a8cf-e0c518792213,473,Johns and Sons,2024-01-10 06:11:24,False
+8263b040-27e5-49b6-98cb-8644e00d246d,110,"Sims, Navarro and Davis",2024-01-17 18:21:34,True
+d6ffdbed-ffdb-452d-bf55-21f1b1b25494,222,Atkinson Ltd,2024-01-15 22:13:23,True
+c6fd8ed2-932b-4e21-a073-263b137eeb85,294,"Armstrong, Evans and Gay",2024-01-08 21:21:34,False
+bc32d4a3-bf9b-4770-8e42-b80ee25ce7f0,149,Romero-Dixon,2024-01-03 23:48:15,True
+46caea4d-2816-41ce-84ef-9d9e2e41305a,573,Moore Inc,2024-01-02 12:43:49,True
+a31938c0-eedf-493c-9209-f824a9b4fe5e,768,"Jackson, Phillips and Shaw",2024-01-10 00:29:23,False
+fa24ea40-278f-4f7c-8134-da1cb583a971,309,Rios PLC,2024-01-07 09:09:30,True
+bb844de7-d3ea-4acd-9424-0144602c7f96,920,Johns Inc,2024-01-10 20:57:52,True
+3acb09f9-57cc-43fc-8dbd-87aaedb6a03c,663,"Oconnor, Noble and Cunningham",2024-01-10 20:52:15,True
+aa3a5100-09b3-4d4b-a4e2-b8fe6ba656b4,945,"Bell, Fox and King",2024-01-09 07:49:59,False
+66f90aa9-05ac-431d-84ff-8687ff5e5e71,172,Stuart PLC,2024-01-02 06:25:58,True
+0742eb8a-3a1f-4ec7-9067-bbb2a3a1ee6b,401,Potter Group,2024-01-14 12:19:37,True
+3f5b1187-8397-431e-b323-788c17fd5d68,582,"Fitzgerald, Smith and Petersen",2024-01-15 18:34:58,True
+460cb144-2063-409b-b345-c08def2f7402,790,Webster-Mitchell,2024-01-18 19:47:04,True
+822b8915-9794-42b0-a719-6a796b24df5f,293,Garcia-Taylor,2024-01-08 11:14:28,True
+50939ffd-1384-4dd4-bf88-7cf1929d9ce3,16,Davis-Rose,2024-01-07 21:41:17,True
+c82d49d8-9cab-4f7e-818a-e753792671b0,23,Shah-Gonzalez,2024-01-15 02:33:04,True
+7f08d5cb-83cf-4f8f-969e-a691c8aee5e9,604,"Turner, Morris and Costa",2024-01-15 18:34:38,True
+28cba9ec-3df9-41a6-a6a6-b65e4d46fc5d,983,"Jackson, Baker and Lee",2024-01-15 10:03:52,True
+e2e1a622-ba33-44f2-93aa-22012b52cd43,560,Andrade-Lee,2024-01-04 18:22:34,False
+434e0a6d-4741-405e-a071-d9f473bd10cd,267,"Rhodes, Johnson and Flores",2024-01-03 13:17:17,True
+6ed6c92a-8da2-4859-843d-b4f7ba89a2b7,723,Tucker Ltd,2024-01-02 02:18:39,True
+d78c74e8-5f8d-4973-a0f7-87dac999bfd4,805,Perez-Roth,2024-01-01 22:29:46,True
+6b86faf8-318e-44e6-81cf-bc6a7fc7137e,689,Kim Group,2024-01-15 19:05:08,True
+dbb607a2-7f3c-458f-b422-eb59597efbaf,233,"White, Rivera and Pratt",2024-01-18 17:35:09,True
+7e131fee-4564-4dd6-99d9-082950b46c63,11,"Mcdonald, Parker and Young",2024-01-02 08:01:30,True
+0bedaa66-dbe5-4151-ad21-122faebcf831,210,Chavez-Lopez,2024-01-09 04:17:23,True
+edfebf86-d2cb-4ee9-942d-bf3c6ed9a523,792,Diaz-Jones,2024-01-03 10:21:31,False
+68ee47f5-91e7-4d4d-aec3-07e4161918ea,661,"Contreras, Williams and Williams",2024-01-10 03:43:39,True
+d5175799-be8d-4cca-9657-8bfff5879e69,816,Jackson-Wright,2024-01-08 07:19:11,True
+d06d0623-0305-494a-810a-67b047edf30b,617,Johnson-Smith,2024-01-15 12:53:21,True
+4bb5159a-b724-4f4d-b689-be8cd11d82f2,820,"Myers, Hampton and Martinez",2024-01-05 19:24:51,True
+ec216d90-ea92-4ad8-ba92-32a09fa65a34,974,Ray-Hampton,2024-01-03 03:59:02,False
+771fc34f-5964-40be-ab05-8458d3fae781,242,Black Ltd,2024-01-19 13:05:16,False
+13ee73e4-0ca0-4d4c-a5ce-2e232a043aad,91,Howe-Oconnor,2024-01-19 02:02:53,False
+790c7b3e-2208-428f-81b4-1b55bacff8d1,237,"Stafford, Roman and Mcgee",2024-01-03 22:19:10,False
+c1de2935-3f3a-4098-b528-94114e9f6c36,168,Diaz-Williams,2024-01-08 14:19:21,False
+0c273657-fe7e-4ee9-b029-61c10eb0d0da,337,Dalton Ltd,2024-01-01 19:18:52,True
+118f35a5-8ef9-48a9-8680-24d3f0af71bf,170,Hall-Garcia,2024-01-01 19:25:36,True
+b09eb3c3-617b-4d2f-8f79-8f0eea1a1cb1,782,Hunt LLC,2024-01-06 11:26:12,True
+dc8ef685-6b57-4889-a639-9a9d362e99ec,259,"Moore, Smith and Johnson",2024-01-14 18:20:48,True
+118b3492-14ae-40ba-b87d-da3ca902ed72,217,Schmitt-Miller,2024-01-06 00:35:59,True
+e6c70f29-08a6-4a32-bb3e-92500e65a942,428,"Ryan, Guzman and Sosa",2024-01-13 08:29:36,True
+49d74d1f-73a1-4beb-8b92-45d3fe438c9c,326,"Graham, Shea and Davis",2024-01-16 12:13:54,True
+656fe732-6661-41fd-85ec-7f764df60302,538,"Miller, Dillon and Martin",2024-01-12 00:13:44,False
+698da40d-b080-4015-9e68-c66f246c8260,814,Brown-Bell,2024-01-01 06:58:38,True
+c0dc600b-2427-4ab9-9ddd-6705b358c3f4,158,Vasquez-Page,2024-01-08 00:36:38,False
+0a004d5b-85ac-4666-a2a4-cf88e5c94649,356,"Flores, Ramirez and Stone",2024-01-01 15:19:24,True
+9bd3d2d0-059b-42ff-b9c9-56675a346307,32,Frank Ltd,2024-01-09 09:09:28,True
+915d2df9-f1d8-4018-b477-74221567ac02,385,Johnson-Mcbride,2024-01-06 11:34:20,False
+5c183cff-681c-4606-b5e5-eaaf21c7500b,827,Santos Ltd,2024-01-16 21:48:07,True
+9709ac74-d1cd-4da5-a73e-ab3b94e0d4ad,209,Meyer-Johns,2024-01-06 19:29:21,True
+2b08d88a-8c6b-48cb-afd5-c3ef964185bf,923,Green PLC,2024-01-10 06:53:10,True
+efe9c31b-791a-48eb-82c5-91b14d697b60,973,Park-Wood,2024-01-04 18:00:49,True
+d2441f74-9c4d-47f3-a8d3-7957553b7aef,227,"Chavez, Nixon and Taylor",2024-01-07 11:00:32,False
+4486ff3b-6e13-4618-8112-3f78f043d008,825,Sanford Ltd,2024-01-09 22:06:17,True
+91505bf0-4dc0-4aa1-a4c8-f296d517cab7,761,Guerrero-Brown,2024-01-15 09:44:48,False
+3bd070a1-243f-417d-aa85-4e429ec2cbd5,415,Davis and Sons,2024-01-19 17:23:36,True
+1f1fe851-8ac1-4af6-9a58-7aee6297c708,720,Palmer-Brown,2024-01-02 01:05:33,True
+1ce854b0-399f-40f7-b22b-860a39141a2e,748,Buchanan-Serrano,2024-01-15 16:07:23,True
+eebd37ea-3631-4a15-b005-2721fade00e8,53,"Rodriguez, Caldwell and Jenkins",2024-01-14 07:42:32,True
+e793630f-7fb3-4c2d-af1e-8e8f526f6bec,513,Jackson and Sons,2024-01-05 07:45:52,True
+b58d287a-13e7-447d-b6c5-7bf272eafa60,793,Reed PLC,2024-01-09 04:29:56,True
+a6135618-805f-421c-9cb8-e36b0d15e01b,846,"Johnston, Waters and Vargas",2024-01-10 15:03:30,True
+afd71c9d-b159-4cd7-8cdc-fb7a881f5dff,823,Santiago-Sutton,2024-01-17 05:31:07,True
+fdec427f-873e-4e52-8c01-447f6c186b6b,31,"Brown, Alexander and Newton",2024-01-09 06:30:23,False
+4fd47cde-c8a5-4841-ab9c-aa21e57574e6,925,Barker LLC,2024-01-18 23:46:09,False
+d1e40dd3-8878-46c4-a484-14305b0850c9,998,Lane Group,2024-01-02 17:12:06,True
+9aab8a8b-fb2d-4b45-85d0-6ef144f5b543,430,Daugherty and Sons,2024-01-01 03:21:20,True
+4761ffa3-fb3d-496e-af0b-9cf884da4055,468,Roberts Ltd,2024-01-19 06:04:30,True
+1372daf3-7b49-4225-b903-f18c24e21eb8,131,Harrington-Anderson,2024-01-16 05:27:42,False
+5ab074b3-6cb6-4529-9699-7ebffb0950a6,28,Mcguire Group,2024-01-16 10:52:07,True
+e4202dbe-9a9d-438e-9188-14e41b076139,505,Taylor and Sons,2024-01-12 09:07:55,True
+4d65c92e-2907-4ee5-bef5-a2f04075f472,453,Cook PLC,2024-01-09 01:16:30,True
+9a94c7f1-d7c1-43f7-9309-2cd8112201dc,817,Porter-Cross,2024-01-20 04:00:36,True
+a5b70f25-75f4-46a0-9b1a-80c56ead0391,712,Valdez PLC,2024-01-03 03:03:02,True
+d0781f09-5c89-4aac-86ea-1789cf93de72,746,Thompson Group,2024-01-11 14:07:52,True
+963b4d6e-3688-4783-9b48-b43de82b8ada,783,Gonzalez Inc,2024-01-11 01:09:50,False
+b67041d2-2528-4990-b2d1-9977ff6356c0,938,Cain-Mejia,2024-01-12 14:31:04,True
+dd095812-0397-4720-8c29-102bb9754139,535,"Cole, Brown and White",2024-01-09 04:21:10,True
+903bba64-9052-41ef-8b1c-d8a94d9d74a0,75,Gonzalez Inc,2024-01-10 07:09:00,False
+5a8a6aec-ff6a-463b-a02a-7a692a7519ab,769,Cantu-Cox,2024-01-20 00:24:26,True
+febe97b7-9758-4567-9bff-276fc089e059,477,Mcdaniel Ltd,2024-01-17 02:46:03,False
+4d0b8634-937f-4d89-85e9-216b8098c3d4,408,Galloway-Leonard,2024-01-14 22:12:30,False
+363c47f8-ebe4-44d7-8626-c1b74514515d,380,"Avila, Gutierrez and Smith",2024-01-03 01:10:13,True
+9c162116-7f59-434c-968c-7679f4d2855c,39,Taylor LLC,2024-01-15 17:40:18,True
+31ff1760-7081-436c-b953-bfff7c5d1c2f,750,Dawson PLC,2024-01-06 16:22:18,False
+9c4db6ab-0253-41ca-be10-eb56418399e7,571,Owens-Garza,2024-01-09 01:03:56,True
+06338acb-a5ff-4b7e-a004-240e22a50612,592,Whitehead-Cook,2024-01-13 12:30:24,False
+8a997803-7798-4b7e-8489-44878ce02f3b,264,"Wolfe, Lee and Miller",2024-01-19 18:46:49,False
+33065226-9f02-45c6-9f77-23a48a15b507,259,Stephens-Hayes,2024-01-04 21:38:45,True
+fb32eafe-8885-440d-9911-77285882f4e5,132,Bell-Duran,2024-01-17 12:47:34,True
+d10c5f15-160b-4d61-abe1-a4f2e851e147,885,Horton-Compton,2024-01-03 10:31:06,False
+86b80412-0ed6-48c3-900f-2707bb68510e,685,Shaw-Mueller,2024-01-11 16:11:07,False
+f482f55e-7eef-4edd-88e6-2f4c83b0e0af,86,"Patel, Horton and French",2024-01-14 03:50:41,True
+ab23e343-4553-41fc-926e-8df8801ec30b,842,Fernandez-Robertson,2024-01-05 20:32:45,True
+c28eb996-904a-4764-8279-4dd29336f2b9,720,"Lane, Barnes and Romero",2024-01-18 17:41:35,False
+8f9befa1-4ae2-4312-a242-b70207bb7233,762,"Marquez, Davila and Miller",2024-01-16 05:48:59,False
+a6a43187-816c-40c6-a2cf-08d17a460fc2,704,Anderson PLC,2024-01-01 19:42:40,True
+c164b6b6-e2a0-406d-b111-e08c000af12a,832,"Campbell, Johnson and Bush",2024-01-07 05:11:27,False
+ed0143cd-b887-414f-abd0-0b267c2a2bfd,380,Martinez-Sanchez,2024-01-19 05:23:16,True
+4801d713-f13b-4e6a-98db-9a9ac709a147,35,Stout and Sons,2024-01-01 19:41:41,False
+dbf5ea7d-fe2f-4f01-b309-6b27fd6daa54,573,"Meyer, Hopkins and Mcdonald",2024-01-13 03:33:44,False
+3c7730bf-26df-4b90-85b9-9e91d6c6b5a0,140,Fox-Miller,2024-01-02 16:30:41,False
+96fa0a38-0bf5-4d19-88ab-ddc75fb2ceb8,880,"Powers, Bautista and Ramirez",2024-01-05 05:05:24,True
+fb840063-bfaf-4f33-b65a-741553e0870f,492,"Sullivan, Freeman and Howard",2024-01-05 18:07:11,False
+d7913581-6776-40ff-ad58-b74151c9ba12,525,Riley-Johnson,2024-01-13 06:33:40,True
+4e0c0bb9-3549-4fda-a598-95fd588f5827,810,"Hall, Duncan and Hicks",2024-01-14 23:17:33,False
+62a719dd-a4e7-4e7e-9e65-eab534027763,800,"Johnson, Boyer and Estrada",2024-01-17 07:35:13,True
+f7b4c0db-d23c-45f4-8477-ac9602c11555,972,"Ramos, Martin and Gallagher",2024-01-13 00:41:54,False
+6772fd3f-db89-4e46-8b1b-dbff6d6b1422,178,"Pollard, Patton and Kim",2024-01-13 18:52:19,False
+91fb9a0b-5d9d-46b4-8da8-bd9ddbf4b414,415,Dominguez-Malone,2024-01-16 18:27:02,False
+cb65b26a-07eb-4a84-a218-63a9db841001,985,Gray and Sons,2024-01-06 05:43:45,True
+3e9d569c-4ab0-4488-8aa4-ea516786589d,430,"Martinez, Wallace and Dunn",2024-01-12 17:50:52,True
+b350f49d-10d9-44d8-8471-2d28f689a8da,447,Horton Group,2024-01-08 09:06:14,False
+9167ce5c-b6b4-49be-97bd-cd591762950a,233,Peters-Smith,2024-01-09 18:30:21,True
+f7d6d5ca-e861-4949-a1fb-9ef215d4bfb6,945,Adams-Phelps,2024-01-03 15:49:36,True
+218e0ff2-e0ed-42dd-86bb-4bbef203d298,870,Merritt Group,2024-01-05 00:59:24,True
+e8ba5ce1-0417-429e-bbd3-b1979cbf735c,344,Lawson-Phillips,2024-01-09 16:51:07,True
+25f7aebf-127f-4fdc-8a6d-bc85849dae79,869,Arias-George,2024-01-06 16:18:44,True
+7bef8081-b468-42ad-98dd-d99c112f9704,939,Griffith-Davis,2024-01-01 01:59:57,True
+8e24fe1d-e3a1-491c-a24f-3d500440d752,247,Richard PLC,2024-01-05 08:35:22,True
+47593723-b6fa-43b0-8ead-c8b2e56c1693,604,Arnold Group,2024-01-19 00:15:58,False
+709b9254-a719-47e2-a9d8-8bdb5f4ca570,145,Pennington Ltd,2024-01-15 23:22:39,True
+1e0c5a3c-6364-4b8f-a1f3-c174fd1799b9,128,"Brown, Morales and Hernandez",2024-01-13 06:24:07,True
+a847c751-e771-45ea-a28b-d14ebca9d1d8,451,Alexander-Alexander,2024-01-04 12:37:47,True
+c11bc284-b06b-44bf-99ad-86b33f43a106,601,"Moore, Jordan and Watson",2024-01-15 03:38:00,False
+d11e2c2c-9170-4492-a746-d1fccef56a73,619,Johnson Group,2024-01-10 20:09:07,True
+0499d537-db21-4d9c-80cb-87745e652b2c,73,Lynn Inc,2024-01-14 07:54:15,True
+88acaaaa-9108-4d33-a4ac-2f920af81ad7,968,"Washington, Tran and Rodriguez",2024-01-09 23:24:37,True
+2f88b4cb-7ada-4c56-89a5-3e6074d7876b,137,Taylor-Elliott,2024-01-04 14:50:25,True
+57af6c8b-e60c-478e-bdd3-1b75d5feff72,339,Gray LLC,2024-01-15 22:34:19,False
+295cc3b4-9153-45d7-968e-c04d0f9321aa,1,Peters PLC,2024-01-11 14:25:17,False
+23256aca-c9f1-4251-922c-7e8d2672e501,305,"Green, Sparks and Gardner",2024-01-12 02:23:44,False
+f8ee97b3-1046-43cd-b194-5905953c31b3,399,Sparks-Rodriguez,2024-01-06 21:27:34,True
+bfd630e4-a961-47bb-9ed3-c7c71e6a8d60,887,Hunter-Hanson,2024-01-15 11:59:58,True
+6b604891-4bfb-4a6d-8643-d6c60ba8545c,567,"Carter, Daniels and Cox",2024-01-18 00:06:50,True
+0df86053-9dd6-48e8-87c2-96327e5f82fb,269,Boyer-Clark,2024-01-09 12:34:14,False
+93de6d21-34bf-4bda-8818-2c26e085fa2a,85,Ruiz-Cantrell,2024-01-05 20:23:10,True
+5c7104ae-c4cc-45a1-87dc-3f3556c1a958,61,Fischer-Hammond,2024-01-17 10:30:39,True
+54f88b2a-dec3-4220-954b-f6adddf9765c,706,Knight Inc,2024-01-19 20:59:07,True
+9a3677f3-0a58-4657-a5f7-539f622e6749,777,Weaver-Holland,2024-01-08 20:57:43,False
+f5f30fe4-a717-48ae-ab69-0f86a22a9456,287,Cabrera and Sons,2024-01-18 12:55:22,True
+318e0341-7e11-43c2-bf31-b0043af4c02a,697,Maldonado-Cole,2024-01-11 13:19:37,True
+7a32ad6e-fcca-4b16-8b30-0b94830477ad,477,Scott Group,2024-01-17 03:57:24,True
+ae4b196e-10d6-46dd-94bc-2236298acc8e,341,Curry Ltd,2024-01-19 22:51:31,False
+75442b6b-e0b3-442d-84e9-b46806359333,735,Robinson-Curry,2024-01-04 16:53:34,False
+67cfa138-d95d-404c-8675-813ac1380572,977,Evans Ltd,2024-01-14 15:51:07,True
+1ec721ca-b798-43d1-ae70-530dbbbb2b62,881,Hayes LLC,2024-01-18 13:06:35,False
+35350117-4fc1-4a92-9d17-13ecf1e490c6,729,Rogers-Villa,2024-01-15 10:59:39,True
+75b8b2fd-6063-499a-ae28-2c27acfb0572,644,Arnold-Salinas,2024-01-17 06:10:50,False
+f50510b7-2833-4e04-bb37-4ed15275034c,490,Miller Ltd,2024-01-08 22:04:03,True
+1b443e6e-e533-4316-b027-d0484d48003d,404,"Wagner, Campbell and Randolph",2024-01-08 12:33:40,False
+de4b581b-f31b-4949-8a8f-067a2ae103c3,12,"Kelly, Figueroa and White",2024-01-19 19:36:16,False
+bfcf39f9-da68-49ec-a33c-e168fbbcd456,199,"Gomez, Huff and Dominguez",2024-01-06 12:36:41,True
+fd61ecff-e640-458b-b1f2-269ed1f377cc,524,Stark Ltd,2024-01-15 02:25:15,False
+8345387b-49a8-43d8-ba3a-030f201f23a8,880,"Williamson, Murillo and Flowers",2024-01-20 02:25:55,False
+6be2e69f-5d16-4d0a-943c-f609056b3d57,79,"Strickland, Gilbert and Dennis",2024-01-16 18:13:01,False
+dd04969a-0abc-402c-980d-8a981a263b80,563,Rodgers-Patel,2024-01-10 16:33:24,True
+e2abea9d-57c4-4d69-8e4c-a9609b7e9064,671,Reynolds LLC,2024-01-19 15:43:50,True
+28e5bb01-6273-4e2f-8702-6a7e96539d6e,654,Morris-Cox,2024-01-05 17:02:50,False
+0e3eb362-868a-48d8-a419-e7d77ad78010,89,"Fields, Hernandez and Patel",2024-01-14 15:50:46,False
+147b63f5-b38c-4c2c-9e8e-af2cfd254305,599,Smith-Woods,2024-01-19 19:47:49,False
+3dc327b0-7571-465d-8779-6755f0bdcd76,563,"Fisher, Smith and Cook",2024-01-09 20:18:38,False
+f2305574-a025-429a-9f4c-1c88d4c7a3b1,429,Vaughn Group,2024-01-05 15:37:38,False
+2e4c1fcb-e385-40f2-bc15-e4e332c0430b,614,Owens-Russell,2024-01-18 06:24:14,False
+4eb4a56c-fead-44e5-8ec5-8b9c21060841,454,"Johnson, Marshall and Williams",2024-01-07 06:19:29,True
+917c8e4f-7145-4748-a8b1-a01d75800cd9,844,"Stewart, Gonzalez and Rogers",2024-01-01 20:29:49,True
+dcab1c16-c562-464d-b5e8-8e5ee9991da3,435,"Thompson, Franklin and Garcia",2024-01-02 11:20:13,False
+5734c0cf-5d9f-4fb8-8013-c9f1d6409e3d,857,Baker PLC,2024-01-04 08:08:32,False
+4e7d05f4-7019-4835-9d80-776a89cf8f69,778,"Warren, Harding and Poole",2024-01-02 17:30:10,False
+6e3e903a-c4e5-40eb-9a73-13f7954bf262,453,Torres Inc,2024-01-11 16:04:34,True
+e7530ba6-65fe-49b6-9889-0667913eff9b,333,Campbell Group,2024-01-17 10:25:29,False
+7d526b2e-08f3-49a2-a303-cade1026d53b,31,Soto-Rodriguez,2024-01-09 20:11:45,True
+743e7fd5-6f44-4535-984e-7395ced4c81c,595,Williams-Jones,2024-01-18 18:23:41,True
+23988e18-9508-4ed7-9588-095168597821,410,"Smith, Thompson and Lee",2024-01-12 08:41:23,True
+78a706d4-a6bd-467f-b6c3-211e7bc684be,317,Deleon-Mitchell,2024-01-06 12:18:13,True
+44322a12-3594-4720-ae2e-4ad82160e50b,771,Cummings Group,2024-01-01 21:36:24,True
+2ee43696-88a6-479b-b8d6-97874d4ce5e5,327,"Myers, Strickland and Gallagher",2024-01-15 17:51:45,False
+7e99e2da-eddd-4b42-ba39-aa5722bb19d4,306,West-Smith,2024-01-09 20:49:13,False
+b83f03c8-2ec6-4fbb-829a-032e15fda494,906,Escobar Inc,2024-01-17 08:54:53,True
+c31cc97e-d713-4749-829f-a025cb7bff9a,827,Clark-Perez,2024-01-20 01:03:36,True
+0f3712a1-bfc5-42e9-844f-d4ae98092bbf,921,Williams-Wood,2024-01-02 10:06:27,False
+3b5ade83-83f2-4254-a0b8-3c565754a8b3,271,"Park, Mccullough and Diaz",2024-01-13 22:53:56,False
+3f7d6b63-bd43-462a-bcdb-04518a5fdf7a,905,Smith PLC,2024-01-11 18:29:55,True
+4e82781b-0cf0-4e01-be7f-b85797eb7ef6,372,Thompson and Sons,2024-01-03 21:39:20,True
+b37f7668-31eb-44fa-9019-268154a22849,138,"Williams, Parker and Griffith",2024-01-02 03:12:04,False
+b9c798c6-ac97-4f62-b2ce-c2bc1ef07b07,646,Lindsey and Sons,2024-01-07 02:51:13,True
+8dce9484-9c15-4c46-8bb1-79531bc64c32,653,Allen-Torres,2024-01-15 09:27:50,False
+3fb16893-47f5-4cc3-996e-81d2338f298c,799,Allen-Morgan,2024-01-17 02:51:46,False
+f03ff81b-72ed-4d36-a166-376e0190b061,393,"Myers, Montoya and Freeman",2024-01-09 19:55:02,True
+ef389638-7cb3-4f41-ab59-2bd66b78549a,848,"Frazier, Wise and Ramirez",2024-01-13 03:45:12,True
+9fe9c048-9dca-44b9-9484-386d6bd95072,693,Williams Inc,2024-01-11 11:07:21,False
+a0f3c5e8-09ae-45a5-a9d0-ad38407e5681,976,Franklin Group,2024-01-16 23:47:08,True
+9af978c3-a14d-4177-a5c1-d6141d907cfc,696,Aguirre Inc,2024-01-12 19:15:37,True
+ce3f7929-deaa-45b4-8396-f4fa15b8a745,323,Evans-Cooper,2024-01-11 10:38:56,True
+8abb5c68-2e22-4c47-b37d-3fb73b46c873,263,Kramer Group,2024-01-16 17:22:16,False
+c6ec7e42-ec7f-43f8-944d-19a9a0d0db05,621,"West, Olson and Delgado",2024-01-10 18:32:00,True
+718fa051-1d78-4a63-a838-b61a08e8ac5e,449,Alexander Ltd,2024-01-05 16:30:06,False
+4c13bbd9-a961-407e-8865-2cd8a769305d,145,"Rodriguez, Hayes and Carter",2024-01-01 04:51:32,False
+499942c8-c8e7-4c42-91ba-fe5cd621c2ba,366,Ayala Inc,2024-01-13 15:33:46,True
+cd4f86f5-ecc1-41ce-b443-a6fa47bea953,165,Lawrence-Kelly,2024-01-15 04:00:37,True
+9d8d4462-215a-4a6d-af53-257ef604dc19,440,"Johnson, Harris and Malone",2024-01-10 13:28:29,False
+ad35044d-3aeb-4c89-a57f-4a60c915b3bd,893,Hughes-Sanchez,2024-01-11 07:48:57,True
+c30af26a-43de-460b-9469-0fcd8565087f,998,Wagner-Harrison,2024-01-07 03:42:23,True
+1321146c-064b-462c-81cb-febbf336c2dc,764,Garcia-Dean,2024-01-07 08:30:46,False
+23b0f841-db9c-4b85-9529-0c952fd1e19e,181,Mccoy-Moreno,2024-01-06 15:35:01,True
+60e488bb-0b68-4831-9d01-611c661dd528,30,Williams Inc,2024-01-17 12:57:50,True
+edfff5a5-5e5c-4a48-9405-5f78ab75574c,864,Thomas-Thompson,2024-01-02 15:33:25,True
+2096416a-7b7c-41da-a5ad-d700f4fe0836,552,"Thomas, Hayes and Taylor",2024-01-19 05:30:07,True
+e4cefe55-a718-47cb-a8d3-b6c70100f67e,514,Holmes PLC,2024-01-02 11:01:42,False
+4581dabe-1cda-4010-99bf-08c930724b6d,653,"Holt, Rivera and Cochran",2024-01-06 18:14:56,True
+36b0e377-48b4-4397-a04b-9c2e1d889a26,466,Pruitt-Black,2024-01-19 16:34:11,False
+04b03f41-27b8-46fc-ad3c-bca3e3aee0b6,610,Bates-Williams,2024-01-18 14:56:47,False
+99aebd08-8a4a-48fb-954b-a620325d4aa4,972,"Abbott, Bush and Molina",2024-01-02 11:23:45,False
+1165693d-c8db-420d-b30a-9ec5a56de4a0,790,Snyder LLC,2024-01-18 03:02:31,False
+faac2cd4-1fcb-45da-af02-42300f26c642,401,Rios LLC,2024-01-13 03:02:47,False
+af1acf8b-0385-4871-9662-b45b32aebbf1,931,Reed-Rivera,2024-01-18 09:47:30,True
+9af11d69-f7e7-4fce-80d1-bf501c89f7f4,173,Walker LLC,2024-01-19 03:16:12,True
+e1ee1778-3efe-469b-bf6c-726816a55eb7,440,Walsh PLC,2024-01-16 20:43:50,True
+714c5bf6-35d3-43bd-b5d1-9f1a0aeb4b2b,557,Randall Ltd,2024-01-16 22:32:03,True
+fe3aaecd-9d8e-46b0-a2d0-9b22576f3436,210,"Lamb, Moore and Solis",2024-01-17 09:01:20,False
+478080a8-75a7-4d89-8d68-18bcfa578e77,540,Morrison-Cortez,2024-01-11 09:08:16,False
+87d1fd41-82f0-4a59-a564-f2e21a06a7a0,789,Richmond-Rowland,2024-01-02 00:18:32,False
+7996e555-a03d-43ab-9906-fba776a2da6a,997,"Moreno, Russell and Arellano",2024-01-10 14:44:17,False
+de4ef551-edd9-488a-a473-bd9b50a96c9b,997,Santiago Inc,2024-01-02 17:11:04,True
+1473a76f-44d5-42fe-ad22-f216d40dabf0,493,Aguilar-Morrison,2024-01-09 16:27:18,True
+bbf4e7c2-115b-44ec-b808-38750560e462,216,"Foster, King and Brown",2024-01-16 14:53:35,True
+3afe7397-2bfb-4e49-90d4-58f561f00dbd,858,Norris PLC,2024-01-13 11:05:41,False
+49941e19-e894-4994-aef8-843756dcbb52,628,King-Camacho,2024-01-03 09:39:32,True
+a7f32047-ae5e-464f-9e46-f22c63808b89,335,"Carter, Rivers and Berry",2024-01-03 19:25:20,True
+4a0544f5-e7c1-4760-a24d-f5bfb005c51d,542,Jones and Sons,2024-01-07 00:15:58,False
+4e1ad54a-ad19-4c36-b8d2-2e49c074ac28,910,"Scott, Barrett and Hill",2024-01-19 22:05:15,True
+fac66178-f33d-44f0-b1b2-6dd0483b0121,687,"Wilson, Griffin and Cherry",2024-01-10 13:38:51,True
+b814944a-2dc2-447b-97ee-b2081d202c65,86,Hall PLC,2024-01-13 08:13:06,False
+8dd47f24-a55c-4ad2-b5e7-3ff8eb484016,943,Martin-Trujillo,2024-01-03 13:27:19,True
+db7ef40a-b9a4-49df-97d9-049ceae53f58,415,"Cox, Bailey and Cervantes",2024-01-17 21:18:26,True
+b35ae0be-74e2-43b8-9399-e05f0b7a9329,250,Nguyen-Young,2024-01-08 21:30:59,True
+bba824a6-1b4c-482f-a528-039977514789,869,Moore Inc,2024-01-12 17:12:10,False
+7e954b4e-a210-4d54-8fd2-66ed4c8a1fa4,463,Thompson PLC,2024-01-18 09:51:10,True
+36dcf646-b8a1-4a2a-bb40-b77affb7fba9,432,"Daugherty, Smith and Daniels",2024-01-18 03:50:46,False
+cb3a3f3a-ce53-4430-8fe9-6bc7197e4fef,432,Smith-Martinez,2024-01-04 23:00:54,False
+f1319a61-7872-4f5b-b6fb-47454405f060,766,Townsend and Sons,2024-01-18 01:51:22,True
+71ea74f5-0962-42a3-acb5-0ac56b0ac3e9,907,Howard-Wise,2024-01-11 08:17:30,True
+3212914f-9390-4ad7-b223-7cb414c35abb,766,"Goodwin, Long and Vasquez",2024-01-10 17:38:50,False
+0c6b4bb6-acd1-4cd4-8660-750003843e2f,253,Monroe PLC,2024-01-15 16:59:58,True
+db6fdbf7-f025-4866-98df-8329cf3c631a,797,Williams PLC,2024-01-07 02:36:55,False
+ecec6603-6664-4d42-aa11-77e97702a053,909,Morrow Group,2024-01-19 08:35:52,False
+5d6bcf1e-8a41-4a1e-9ebf-f3dae063bd2d,374,"Hunter, Ramos and White",2024-01-15 22:42:10,True
+e161d49f-02a0-473f-ae61-a189e7db3a5b,470,Williams-Benson,2024-01-17 19:01:37,False
+0a16a00e-39d6-44bd-84a2-647bc7892583,692,Patel Ltd,2024-01-10 19:51:06,True
+9356a8b7-cc9d-402e-826b-a7b05c7a4deb,84,Moore Inc,2024-01-05 09:32:13,True
+e9fdcb9b-73ff-4948-ae33-4318d424f7d8,43,Craig Group,2024-01-12 00:52:28,True
+92368672-1cd5-447b-a1a4-a05048596189,88,Campbell-Cross,2024-01-07 06:04:32,False
+fef77723-994b-4bf3-8934-a7a369a7b0d5,155,"Rogers, Beard and Greene",2024-01-13 23:56:10,False
+16f63baf-fae0-4ad8-b871-857764deec20,709,"Lee, Mason and Harris",2024-01-14 14:59:42,True
+5fbff400-aa70-4df9-8294-64f41e7ce676,68,"Williams, Merritt and Tucker",2024-01-19 16:43:57,False
+b0a77ce5-1de5-4f2e-a258-e53df7513aaa,162,"Schmitt, Dyer and Perez",2024-01-03 05:11:25,False
+92a16e22-33e4-4ca5-a100-9d4caf2b35e8,851,"Elliott, Poole and Trevino",2024-01-15 03:25:53,True
+69237254-a1f7-4809-a9a5-a08aac412dbc,228,"Wagner, Jordan and Robinson",2024-01-17 21:47:24,True
+7fec4f86-ea37-46bf-a5aa-bb7f2b3a736c,891,Villa-Villanueva,2024-01-04 05:24:43,False
+8e7bb107-a9fd-45db-9745-1f9ce3cf99cf,322,"Vaughn, James and Reyes",2024-01-13 22:14:30,True
+6501914b-175f-40fa-93b1-92097b7b2bbd,104,"Smith, Simpson and Miller",2024-01-19 13:06:29,True
+cb4a9e8c-35d9-44c0-b805-df837d11ead8,809,Anderson-Jones,2024-01-03 21:51:47,False
+d43170f1-3a53-49f2-9051-148ea1e20af6,155,"Ellis, Oconnell and Jones",2024-01-06 12:56:59,True
+9ae16729-6fb5-4d17-a146-5c1f5ba5ef11,289,"Mosley, Hart and Ryan",2024-01-09 23:14:35,False
+3c2ab2dc-ebbc-425c-a098-77fda22b98d3,522,"Sloan, Ball and Cox",2024-01-03 16:36:01,True
+d879a8e6-e394-477b-a0ed-513d32009835,124,Stevens-Fowler,2024-01-01 16:21:30,False
+4a7ff3b0-6ccb-4fcc-80e0-ed2cca42e65a,387,"White, Nelson and Holloway",2024-01-10 17:24:37,False
+0172040f-44a1-4a92-a030-913f19e59dba,818,"Campbell, Galloway and Allen",2024-01-06 10:37:06,True
+d29d4f90-3df3-4c4d-8765-9ccb379b5305,922,Rocha-Oneal,2024-01-03 15:23:18,False
+ed822fe1-53c6-40ed-9562-0482a3810c9f,787,Fisher-Gray,2024-01-09 18:41:15,False
+e0fcd93e-bdb1-4329-a7a1-932d5961acb1,38,Johnson PLC,2024-01-17 18:24:39,False
+94397339-b245-41d0-b72e-0b4c75e1aede,787,"Gomez, Marsh and Guzman",2024-01-03 03:59:30,False
+4a0c7c1b-2dd0-43e2-ac7b-3a9b7f544fdc,955,"Dunlap, Brown and Porter",2024-01-16 21:52:57,False
+56fbd2b7-0a1d-4edb-921f-2dd18130a356,657,Wells-Wiggins,2024-01-11 15:12:56,True
+51d27ca6-9d49-4b78-a2a7-2e49e307ea36,518,Brown-Dickson,2024-01-13 20:04:03,False
+b6a91006-499c-4968-8f73-20e9799c0eae,681,"Benitez, Hill and Huber",2024-01-03 15:19:10,False
+f7f8ab52-961a-4812-8867-101049e468af,237,Thomas LLC,2024-01-16 16:19:12,False
+bc077267-ab99-4fc4-990a-d73701464eff,624,"Gonzalez, Anderson and Patrick",2024-01-01 14:27:53,True
+f277a91c-6bb9-4203-a58d-1a4e42e87fd9,751,Perry Inc,2024-01-10 01:37:59,False
+b4cb9e26-cb07-4a1d-a949-e983128ec397,144,Hall and Sons,2024-01-17 10:54:45,True
+c2e35438-f714-4cf6-a14f-d986bc9b9d4e,371,Hart Inc,2024-01-19 04:10:04,False
+732da3f7-909f-4496-bfe2-5d14d6470266,797,"Vargas, Lewis and Scott",2024-01-10 09:37:53,True
+1e249b0d-0ade-4411-9309-8d9faa83fd4e,686,Ramirez Group,2024-01-02 03:40:40,False
+94bfa210-652a-4b2a-bf71-99c9f24faf6a,500,Roman PLC,2024-01-14 01:37:01,True
+48204c19-feda-4290-ac3a-21364e94be06,51,Li Group,2024-01-13 03:57:05,False
+987806fb-6405-415b-b2d5-57d6845db07c,842,"Cochran, Gonzalez and Clark",2024-01-03 20:19:57,True
+aa3dc95f-9771-4205-a606-b4e864287c87,669,Martinez PLC,2024-01-06 18:46:09,False
+f6b53506-fd4d-4545-85c7-5144c38bbc2b,572,Evans-Duke,2024-01-06 00:08:26,False
+d7759ada-128a-408d-923b-7f7e79a4c265,797,"Jones, Ramirez and Noble",2024-01-14 22:42:10,True
+57f426c5-a1f5-4c28-8283-32bdbc01ef82,688,"Drake, Powers and Collins",2024-01-16 10:12:51,False
+5f759b80-1fe6-4cf0-9919-a85b171de5f8,391,"Washington, Lucas and Sanders",2024-01-18 07:23:41,True
+9285e219-1dc9-4d8f-ab5d-6a21c2559a28,281,Smith PLC,2024-01-15 04:44:48,False
+3f0fc878-7053-4f2b-8265-abea1024985a,414,Weaver PLC,2024-01-06 19:03:29,False
+889d3c5f-c87a-4b8d-99c1-cc63039a5fe1,918,"Allen, Dennis and Faulkner",2024-01-08 20:54:54,True
+11331691-5f35-49ae-b0e9-db2dc68b3586,154,Ponce-Martin,2024-01-09 12:02:04,True
+8fe7e518-331f-4048-8d6b-c592f4474c07,590,"Turner, Benjamin and Griffith",2024-01-15 06:07:15,False
+31d9664c-0879-42d5-af38-137c49e5dece,389,Neal PLC,2024-01-01 13:58:10,False
+8a07c053-7fcc-4ea8-a318-997c805e1758,376,Gibson-Hall,2024-01-16 13:06:09,True
+f8b86237-9902-4548-b9a7-499261ff18e5,728,Lane-Holmes,2024-01-12 01:30:03,True
+52fe7e5d-f64c-4366-a356-58b9ff767364,687,"Frost, Garza and Walker",2024-01-19 21:17:09,True
+2be20364-c829-4902-9af5-149c7d25f43c,914,Hall-Evans,2024-01-02 12:10:13,False
+768ca621-acff-4c8f-be58-e48e4bafc5bb,657,Ramirez-Mclaughlin,2024-01-14 07:06:49,True
+4ddb0cb2-d4d7-4ec2-b3c0-d858e4656610,468,White and Sons,2024-01-14 02:32:51,True
+d968914c-26ee-4443-979a-d6304219ed20,553,Clements and Sons,2024-01-07 07:18:39,False
+a3800987-128e-4240-901f-1d788018b988,266,Gibson Ltd,2024-01-09 10:59:38,False
+8038b732-2fcc-4eb0-9ff9-fd43e3214f1b,716,Lopez-Wagner,2024-01-12 16:40:44,True
+a3a6999d-0273-4dfb-948e-b434a0b44dd5,599,Lane PLC,2024-01-16 02:17:31,True
+caa8d475-5c3b-4676-8c15-bfebe8e2d33d,658,Johnson-Cohen,2024-01-14 20:26:15,False
+4464ccf8-9b1b-421c-86fa-4db005fc7b16,105,Dougherty-Ballard,2024-01-11 01:33:05,True
+dc85b6e6-4dad-4652-8b06-0e29f373e0d9,55,Sherman LLC,2024-01-08 09:31:01,False
+70470a30-fc87-4640-aa84-eb5f80bded56,250,Hartman-Bell,2024-01-19 10:30:55,False
+41321bd9-cc28-43f2-a92e-180cde337364,305,Scott-Blair,2024-01-08 12:46:21,False
+301a9bfb-8665-4a5e-9558-a19876daaed0,814,West LLC,2024-01-18 09:19:19,True
+6454cf63-47ba-4ae9-9c38-ca7b6bc9ffa7,758,Reyes PLC,2024-01-07 00:06:50,True
+6a3f9e59-2ed6-41fd-9eaa-941d510d1a89,623,Smith Inc,2024-01-09 23:04:42,False
+4f5f829f-e254-4a46-8527-013be1f0ddbb,681,"Payne, Fletcher and Estes",2024-01-17 15:30:04,True
+76142b8a-421b-4e16-9cd5-ff80a1b62f9d,718,Clark-Wolfe,2024-01-17 21:54:37,True
+8c1e3b28-45c0-47fc-b5aa-c6c4b928116f,76,Lopez LLC,2024-01-04 05:31:15,False
+e57e8b7e-c90a-421b-9b5a-101096a1d45b,398,Richard and Sons,2024-01-03 15:24:57,True
+d2fe8961-e005-4271-b03d-80757cf6d062,240,"Jackson, Wise and Lindsey",2024-01-19 18:11:13,True
+1ba92bef-fad0-4b2a-8c0d-7907bffc3937,64,Dunlap-Thomas,2024-01-05 11:34:13,False
+d1410951-59dc-43f7-95d6-e961520d68d8,657,Robertson-Davis,2024-01-12 11:04:40,True
+72b819e8-40e1-40a4-9974-167c136612e2,416,Scott-Jones,2024-01-19 18:07:28,False
+3eab9a49-2805-4065-a7c9-420f3a4926a3,594,Hendrix LLC,2024-01-07 05:27:26,True
+3301741d-8213-4432-8939-61f11a802ed4,928,"Anderson, Adams and Todd",2024-01-19 05:43:52,True
+5c8b8e87-d70e-42e5-9116-074f4e494852,585,Jackson-Lewis,2024-01-04 10:10:20,True
+9bd9bf98-95ce-4548-891b-15da5c54a4b1,127,"Davis, Gray and Mcclure",2024-01-09 11:46:43,False
+a9bc9ab6-32dc-405c-8c2d-063b4f728ba1,125,"Haney, Davis and Blackburn",2024-01-09 13:50:11,False
+9936b920-4034-4378-be99-07e2c0d6fa89,79,Bell Ltd,2024-01-14 06:06:41,True
+69d5e7eb-7971-4bac-b966-40d2178d5fd8,816,Walker-Conner,2024-01-02 21:55:21,True
+d2f18192-2be7-4d42-b136-2f4af0db4127,644,Hines-Shepard,2024-01-04 02:00:33,False
+9e290c8d-b0c4-4e34-b813-0e57260c80ef,947,Reid-Hill,2024-01-17 02:42:37,True
+a5af0ffc-38c3-483a-b630-6ed0b39dad74,859,"Owen, Gordon and Rogers",2024-01-20 06:17:32,False
+5c95e433-8056-4808-8d88-322eae3c36a5,617,Simpson Inc,2024-01-15 04:54:02,False
+980c2433-c9ef-4477-b9cf-287c16a3408b,222,"Hernandez, Harris and Tapia",2024-01-19 17:53:13,True
+562d2dae-77f8-4761-9dc4-c3e7a1befc6f,883,Burton-Carey,2024-01-18 20:07:25,True
+12798fcf-30d7-4241-8a61-1ad152a65769,508,Martinez-Wright,2024-01-04 04:59:13,True
+a2629cb0-d121-469c-97e1-fb6b67ad2c80,842,Brown Inc,2024-01-17 09:47:28,False
+146852f4-85d7-4c6b-860b-45192888848b,219,"Johnson, Sandoval and Anderson",2024-01-14 23:56:38,False
+e3e16cd8-febe-44ff-b5b2-2257e3f8c67a,715,"Rodriguez, Hernandez and Swanson",2024-01-02 09:10:31,True
+7120655b-5d9d-4133-a71b-050ff7fbf2a9,800,"Chase, Cantu and Crawford",2024-01-07 22:20:59,True
+7ea99434-26f7-40a9-bb61-1c85dd079849,948,Gardner LLC,2024-01-03 10:50:01,True
+73296a8a-220d-40e9-9e6d-ee7d5ce36fdf,555,Scott-Boyer,2024-01-02 03:24:52,True
+e686cfff-fdef-43b8-b46b-9776dd39cb2e,615,Peterson-Jordan,2024-01-12 15:36:23,True
+849b9ccb-77f0-4885-a5a1-d54789f19829,948,Black-Salazar,2024-01-07 06:10:53,True
+bb08fff1-b809-4980-97eb-c77800d0c0d0,876,Taylor-Porter,2024-01-11 10:06:40,False
+e8123c71-7017-4775-9a5f-0c1bdb7bbf9e,654,Fox LLC,2024-01-11 07:07:42,True
+3e32d146-61d3-46d0-8761-b165e4b659af,780,"Carrillo, Weaver and Simpson",2024-01-11 08:05:19,False
+1657e960-dd1b-482e-b9bf-53470761f4ea,835,Adams Group,2024-01-02 13:10:05,False
+633871f2-b0f7-4846-9ed1-b1642c9b106f,441,Brooks Group,2024-01-01 22:32:57,False
+f58268eb-eb44-4d49-870c-02443b990d50,103,Gonzalez-Peterson,2024-01-13 04:59:45,True
+db544be8-bdc5-4d48-a60f-493f2105b472,274,"Mann, Luna and Flores",2024-01-01 08:51:30,False
+50701fd8-d4c0-451d-aef7-73792e8f784e,826,"Shepherd, Rasmussen and Walker",2024-01-10 07:06:05,True
+26ca55d4-a8d5-4216-926f-3e5a23cac98a,649,Day-Cole,2024-01-06 10:09:02,True
+04522c17-4238-4046-84f6-0e625b3aa4f1,579,"Young, Heath and Wilson",2024-01-11 06:28:12,False
+9a246ea2-ef0e-488a-8a75-e86b4b6b209c,247,Tran LLC,2024-01-14 04:58:18,False
+e183f846-d475-4174-99ec-3f35cad7baa5,789,"Jackson, Marshall and Buckley",2024-01-07 20:39:50,False
+f214af22-5621-45fd-b104-891c3fdd5b26,862,Rose PLC,2024-01-14 16:45:27,False
+ac51c7d4-7d79-4b41-9587-76d383199c13,988,"Parker, White and Khan",2024-01-06 15:16:57,False
+6284e8fc-511d-4b00-9bd8-ee47779c0ca6,365,Potter-Phillips,2024-01-07 13:51:32,True
+ae2e9864-1d6f-4688-9e33-982aff081cb8,364,Reid Inc,2024-01-03 13:47:46,True
+7a74e0d8-c060-48a6-ad8b-66c54dc308cb,69,"Conley, Boone and Jones",2024-01-16 12:32:55,True
+a138c451-0d89-4118-a79d-7965e24a30a0,323,Thompson-Mcdonald,2024-01-11 18:49:04,True
+bb2d745b-423b-4863-b194-42e7f1d6f69d,592,Herrera Inc,2024-01-15 09:23:55,False
+ddda5884-c13f-445f-accf-53706d61adb1,512,"Andrews, Thomas and Khan",2024-01-13 11:57:57,False
+036ee011-846c-4231-bc51-7baf7e71e155,863,Pope-Barker,2024-01-10 22:21:07,True
+dab2e7d8-2013-4c4a-9858-361e0cb952e9,576,"Quinn, Aguirre and Colon",2024-01-08 18:28:31,False
+bbbd67b6-fb2d-4a0c-a986-9140a9e23985,227,Gordon-Gibbs,2024-01-02 01:48:18,True
+b95dec89-8184-4aea-a834-944fd56fbc1d,277,Baker LLC,2024-01-09 13:58:19,False
+6cc371e4-7074-42ee-af5d-1af573538b1c,585,"Herrera, Alexander and Jenkins",2024-01-04 06:17:57,False
+df2552cf-3278-4bf7-bd0e-4e3003587b08,10,Boyle-Cochran,2024-01-18 22:19:12,False
+74d54893-2048-48c7-9c69-9d374b0fc3e4,723,Soto-King,2024-01-18 03:28:29,True
+ae57c318-cb40-41fd-b44d-29e0de7ddd64,434,Pollard Inc,2024-01-04 08:10:27,False
+08cec1fe-22dc-425f-8ed7-f7dac0bbea27,735,Reed Ltd,2024-01-13 03:16:41,False
+d9e8c8af-c232-418b-87d8-82bb9dcd6dff,404,"Stewart, Leach and Williams",2024-01-08 22:36:43,True
+ec036940-0bd6-4a2f-85d4-7fe1b812a4f6,238,Lindsey-Savage,2024-01-05 16:58:18,False
+9e7bdb9b-3584-41e3-8592-6b58b917ee97,65,"Martinez, Gates and Rogers",2024-01-15 17:27:32,True
+15d12831-b7a4-4f5c-8bac-f217ddb06005,131,Bennett-Mccoy,2024-01-01 16:02:43,True
+e918b42c-2835-4b63-adbb-3c33803d7942,73,Cross-Huff,2024-01-02 04:23:35,False
+26749a61-dfde-4f7e-a670-7b9d55cef0ad,62,Kramer-Carlson,2024-01-01 15:05:32,True
+de2d842d-af6f-4494-a4aa-55f0496e09c1,303,Jacobs-Bernard,2024-01-17 11:18:42,True
+2414ca36-22f4-4275-b386-2979177957e0,933,Carpenter-Freeman,2024-01-18 10:10:56,False
+17dab5c3-7083-4d6e-8897-3a2e94bcf4dd,843,"Martin, Smith and Hays",2024-01-05 20:32:26,True
+4fb3732c-9bd3-43f7-8b92-312d55cb0a16,708,Baker Ltd,2024-01-12 06:26:54,False
+2efc4352-21f8-43ca-99e3-cf9f4a08fb94,191,Lewis-Lopez,2024-01-07 13:53:39,True
+ee2adc7b-8def-4b58-93af-e6da8c9abbb8,225,"Mendoza, Lee and Ford",2024-01-11 23:01:18,False
+d05d3efc-5849-4ce7-b8a3-7bff6a125c65,585,"Martin, Cruz and Hawkins",2024-01-07 15:29:27,False
+5200d394-3f90-424c-bf78-b0c224e35abe,525,Taylor and Sons,2024-01-02 02:42:29,True
+b05dcc2e-85f7-4a72-924d-54f7b9dabde1,404,"Cox, Newton and Hernandez",2024-01-20 02:04:46,False
+329b0e0e-21dd-48e5-b345-eafaddc81d32,77,Martinez LLC,2024-01-01 17:36:17,True
+1abb7531-0e00-43c4-97ca-e60082ef8828,978,Estrada LLC,2024-01-08 00:58:34,False
+3ef82c54-7b4d-490b-a51f-b3de3350ccbd,828,"Ferguson, Johnson and Lewis",2024-01-09 03:15:09,False
+ee95a315-d23a-4bbe-a55f-3e3dc8e667ed,490,Soto-Schultz,2024-01-15 04:15:00,True
+f5eb6179-4208-44e0-b8e4-d42cc8100821,112,"Hardin, Graham and Clayton",2024-01-17 09:48:55,True
+94c286c8-7a52-44ae-9d2e-f1c781b6a4ee,318,"Garcia, Singh and Frye",2024-01-11 01:43:53,True
+45d89fa1-8b3f-4b35-8da0-c107b30ea9cd,779,"Williams, Hicks and Perry",2024-01-07 22:53:23,True
+1ce06934-e398-4126-b115-84f0764ae08a,692,Johnson LLC,2024-01-17 12:12:10,True
+f4388089-7f60-437c-b128-29804119354d,165,White Inc,2024-01-11 09:26:02,False
+2f101543-ae16-4fe2-a4c9-fdd29742b37d,520,"Wheeler, Pearson and Blanchard",2024-01-03 17:04:55,False
+9bb55638-696f-47cc-8a6a-cc01156361cc,908,"Blanchard, Stephens and White",2024-01-10 07:10:19,False
+a1535f05-2031-432b-ae74-6fe6e8689ecf,953,Ayala-Strickland,2024-01-05 13:26:20,False
+6353d524-64cf-49b1-8400-ea3eaaa74d5e,321,"Chaney, Sims and Lopez",2024-01-16 01:15:47,True
+64721fdb-a191-4f7c-bac1-8eebf5e0c0e8,326,Santiago PLC,2024-01-19 11:18:02,True
+a69258b8-31ff-4725-85e9-0cbe98b4f5fa,915,Payne-Ellis,2024-01-17 06:47:24,True
+da0b4206-475b-4ace-b954-b2af91a84bea,283,Rodriguez Ltd,2024-01-04 04:10:37,False
+82fb8333-3847-4943-844c-754efa6b77aa,599,Herrera and Sons,2024-01-20 04:58:18,True
+6e9393ac-0f87-4f66-a1a1-4584d97d0588,945,Jones Ltd,2024-01-06 04:15:00,False
+68d30694-a773-4d80-93d8-809606bc9b29,218,Savage Group,2024-01-08 22:00:22,False
+c957ae5f-9c42-4d2e-b1fc-64534d1942ab,4,Nguyen and Sons,2024-01-12 20:15:06,True
+ef531e9c-bf48-460a-8858-d95f7aa92f5d,879,Norton-Henderson,2024-01-04 20:53:00,True
+b35ac111-9097-424d-956d-f73db104e5bd,371,"Hall, Moody and Robinson",2024-01-03 03:56:15,False
+19a2dc4a-a9d0-47c1-b88c-650bf500b6dc,361,Hunt-George,2024-01-06 20:50:26,False
+412640ab-b683-4daf-ba8c-dff4e0666458,187,"Mercado, Hunter and Lewis",2024-01-02 08:07:29,False
+a409da58-e11d-4eac-8fef-6105456d4ca4,211,"Dunn, Thomas and Rivera",2024-01-01 17:11:38,False
+47781627-41d6-48cf-ab53-f8025ff0782b,261,Brown PLC,2024-01-12 07:39:41,True
+00363c08-2f6a-4955-9a2f-3c15af6656c5,733,"Powell, Kennedy and Davis",2024-01-18 05:28:42,False
+7bb823c5-ab47-4ed4-9b26-5e5302ee2e33,282,Torres-Palmer,2024-01-11 23:57:34,True
+ac427da6-140c-4281-b5b0-42dc74cacd31,99,Schneider Inc,2024-01-11 11:39:48,True
+2cbaff62-43d2-400b-987b-2ad27b116f1d,17,"Wallace, Wagner and Morton",2024-01-16 21:28:19,False
+c974ff20-845d-437c-8ab1-1f621aeebcd2,86,"Oliver, Murphy and Lewis",2024-01-01 14:16:36,False
+f4227a15-ffa2-4b7b-a550-2a3f885f10ed,557,"Gutierrez, Baker and King",2024-01-17 16:17:19,True
+19f54573-6c12-4d85-87f1-88e25bde2f28,89,"Nichols, Blevins and Smith",2024-01-04 18:28:07,True
+38420308-b4d6-4b96-8781-f811d5c9ef25,144,"Brown, Everett and Manning",2024-01-16 02:02:24,False
+15cd9156-0c05-4883-a3f8-e623e8dc524c,797,Smith-Martin,2024-01-11 03:00:19,True
+60c92c3a-4c1f-4ae7-b10a-202a9f20384a,126,Hayden and Sons,2024-01-18 04:51:29,False
+fe6dfb83-3374-4cac-96da-c9ae2c0afe56,863,"Miranda, Erickson and Mullen",2024-01-11 14:33:16,False
+952e3d75-a219-412f-bcda-19b43cc4a6c6,228,"Whitaker, Joseph and Cross",2024-01-13 05:45:17,False
+8fa02b43-f4f5-49dd-85f3-6c2e7ed437d0,948,"Newton, Davidson and Thomas",2024-01-11 05:24:55,False
+391812b3-58e5-4e77-a7bf-fe0cf303089e,22,"Ramsey, Paul and Wallace",2024-01-15 04:13:26,True
+d8ab25ce-ec25-42ef-a9c1-268a9eebe98a,122,"Harmon, Nguyen and Peterson",2024-01-02 06:58:29,False
+63a13e32-b42d-4504-bd60-1c7fddef2724,851,Brock LLC,2024-01-06 13:19:36,False
+f53c47e7-a08f-4ea2-9feb-e5f475b8b428,730,Jacobs-Miller,2024-01-05 04:28:31,True
+f13e6236-0720-42c4-bf5f-9bc516af22e2,928,"Garcia, Martin and Simmons",2024-01-07 10:47:41,False
+c3353e42-de07-405b-91a3-b3117bff612b,126,"Carter, Phillips and Saunders",2024-01-09 04:51:45,False
+2dd50705-5067-406d-a9f3-8c97a9793d4c,387,"Martinez, Johnson and Jones",2024-01-19 19:35:43,False
+acb0cded-8f28-4aae-9687-c4effacb8526,366,Green Inc,2024-01-13 17:56:12,True
+80f899d5-fd38-4199-bd78-bbbcca93a946,350,Herrera and Sons,2024-01-17 11:49:12,True
+b3ee00bd-f914-4dcf-8e20-c587a224d13d,264,"Mcdonald, Lee and Pratt",2024-01-12 03:12:41,False
+e6c63367-25a3-4d9f-86e1-9f3ff1290359,3,Kelly-Lee,2024-01-05 10:55:26,False
+0af524c0-54dc-43e4-b6ff-fb4e7d4be5a0,934,Moon Inc,2024-01-06 08:25:14,True
+184aca17-2715-4bfd-b3b8-0bc83eb8a268,71,Rodriguez and Sons,2024-01-07 14:34:17,False
+9b61af13-1593-48aa-805e-206cfbe47584,416,Romero-Lamb,2024-01-13 03:27:46,False
+e0d05f74-e271-4a03-9da8-3c9e97845a4d,149,"Dickerson, Nguyen and Gonzalez",2024-01-14 01:38:37,True
+b11c77e5-a462-4f19-ad55-05e4abecc106,519,Powers-Rogers,2024-01-09 13:51:20,False
+9a6d0361-9502-44ef-843d-0af7cbb79870,960,"Potter, Adams and Robinson",2024-01-08 09:50:39,True
+2a23d829-f20b-4caf-b13e-c2a41da6cc02,962,"Alexander, Rogers and Estrada",2024-01-11 19:45:16,True
+849c75ad-d28f-4dc3-8a40-9cd7bb35459a,436,Morgan-Jackson,2024-01-17 03:11:57,False
+1f9974e3-f672-485a-ab97-b8d59fd51c87,117,"Bradley, Donovan and Clark",2024-01-06 01:04:18,False
+90dc21c4-491e-4318-9927-45fcc4727607,947,"Johnson, Anderson and King",2024-01-08 21:50:01,True
+1bf201f5-1e7d-40cd-b240-e23008717f8a,738,Myers-Mcbride,2024-01-18 13:12:41,True
+ffbd62a3-81b5-4a3b-9a9c-d4520c8987c9,272,Rose-Richmond,2024-01-14 07:28:56,True
+84fddaee-42d5-4449-b464-6305c27d9ce6,630,Vazquez Group,2024-01-15 14:19:15,False
+052f542d-aa8e-446b-a3cb-5d1128289312,969,Lopez-Hall,2024-01-13 19:21:54,False
+6645b07b-ca29-4556-80d7-536242bfd66e,800,"Watson, Garcia and Mendoza",2024-01-13 03:15:31,True
+1ac02a21-afc0-47c3-b647-acde32f6c6b4,515,Smith-Gaines,2024-01-10 10:40:51,True
+e3fea204-8eda-46f1-81a8-624eb9ef8cf9,877,Griffin-Bauer,2024-01-03 07:13:53,False
+a33d56fc-cd3a-4be7-935b-7d39a7b8dc0a,112,Mccormick-Knight,2024-01-14 05:52:26,True
+2b09d750-4e12-42a4-9f23-42a070fa4646,578,Haney-Johnson,2024-01-09 11:40:10,True
+46e950e6-5815-45d5-bd3e-aa44b2d0dc73,796,"Dean, Anderson and Watson",2024-01-02 13:19:11,True
+5dbbc686-b501-41c5-9806-c45bad93015d,614,Collins Group,2024-01-13 12:23:35,False
+185c5082-62bf-45cc-bbd6-6e86fc2a8d7b,862,May-Gilbert,2024-01-08 02:12:49,True
+1dababad-cbd8-4598-a931-39599254f223,172,Hall-Miller,2024-01-03 03:19:01,True
+e505956a-9e39-45f8-a09e-bae1f0110c52,85,"Griffin, Lee and Luna",2024-01-08 11:09:15,True
+ded5e244-0007-4db0-b0f3-7f037c7fe80a,265,Daniels-Cordova,2024-01-01 10:39:53,False
+9ce7bb15-bb5d-4d99-b2e5-bcf507ec0c59,886,"Smith, Mccoy and Robinson",2024-01-06 22:21:50,False
+c8c58f4b-d713-4e57-9a13-edc3c5cd997e,580,Ruiz-Hatfield,2024-01-16 07:19:47,True
+77d59301-ae44-429d-acaf-effa8e8c9a52,272,Ellis and Sons,2024-01-16 11:46:08,True
+ecb2cfa5-055a-4cd6-80b2-560f76388f3e,894,Jones Ltd,2024-01-05 11:33:39,True
+978258dc-8da0-4d69-9642-7d06fc9af0dc,59,Shea Inc,2024-01-20 03:19:06,True
+43dfd438-ff52-4870-b74a-16498ee68403,901,Reed-Sanford,2024-01-20 00:00:15,False
+1702fbe3-38ee-4049-b804-a171eeb5d105,200,"Young, Jones and Taylor",2024-01-04 13:42:58,False
+ca994894-1363-4395-b44f-e25592ecb58e,198,Taylor LLC,2024-01-06 13:18:16,False
+213df138-0e62-4fa7-8721-e4a17ff0ee68,87,Rodriguez Inc,2024-01-12 14:35:32,True
+3bca0cb0-edb9-4d44-aa9d-961842a668ec,484,Rodriguez-Brown,2024-01-03 15:00:46,False
+ce19fbaa-f853-4f35-be61-ae81c1e1c43d,431,Thompson-Sanders,2024-01-19 16:37:23,False
+4eebf4ff-aab3-45b4-89f0-a7fa053907eb,927,White LLC,2024-01-17 08:00:10,True
+5a60b490-4e50-45cb-b78f-48d4c2c038e6,746,Oliver Group,2024-01-10 04:15:28,True
+1edb8ef5-9883-4711-b601-9aa8dc07e0ef,288,"Morales, Wood and Eaton",2024-01-17 07:46:03,False
+5dd6945c-8b1a-4b6e-89cc-7ced85359545,406,Knapp and Sons,2024-01-15 11:46:52,True
+a4de7c27-b493-4a5f-a519-31dd3f15ca7e,242,"Gray, Howell and Briggs",2024-01-18 08:55:40,False
+4d56e577-6def-460f-92bf-af4d8e3b51f3,397,"Miller, Murphy and Silva",2024-01-02 14:04:25,False
+07552c0f-0307-483b-83d0-8c2a507393de,381,"Thompson, Shepherd and Alvarado",2024-01-16 02:54:50,False
+deda5165-dbbc-478a-9134-0440c6712635,637,"Mcguire, Anderson and Lambert",2024-01-12 07:46:29,False
+8627a9cd-03e0-4062-966c-e27bebe2c08d,145,Moreno PLC,2024-01-03 13:14:23,True
+2fc96c86-7735-49af-bdf0-dce55489e1e1,59,Sanchez-Rogers,2024-01-18 14:53:50,False
+0acbea6b-2ac9-4d41-b268-d0c11cc64534,139,Martinez-Collins,2024-01-19 16:23:59,True
+f14177a8-73cf-4090-8621-dd806662433d,230,Lynn Inc,2024-01-06 21:13:17,True
+9f80db9b-7562-45f1-b1a2-7009f9d6db33,244,Smith-Holland,2024-01-05 20:06:35,True
+350cd0ba-dc6f-43cc-b3d4-09602b3a9559,891,Jones-York,2024-01-08 11:48:50,True
+4ebf411c-c793-4e19-a37c-1795d937295b,428,Berger-Brown,2024-01-06 11:59:30,True
+c024d54c-8293-4f5b-83de-2872e3851f86,927,Allen and Sons,2024-01-12 18:51:38,False
+45d48464-44dd-4ad2-8708-049dc99e70a3,248,"Alexander, Hernandez and Mccann",2024-01-01 01:17:25,False
+0105a288-2a2c-4839-97ed-62dbbf464617,148,Hernandez LLC,2024-01-17 12:32:02,True
+75baa47d-82f9-4375-a8b7-ffa9a9d9330d,610,Garcia-Allen,2024-01-07 21:10:11,True
+fa887384-37da-4808-bafc-8cb89743e740,662,Atkinson LLC,2024-01-11 03:48:36,False
+a6cd9e87-c52e-481e-a8d5-b41f578771e7,147,Fleming-Chen,2024-01-18 12:14:19,False
+49b29057-3cf9-4d73-a57a-dd50c0145d12,666,Harris and Sons,2024-01-09 06:14:05,False
+b77069ef-1fe4-4d96-9359-eeec94b2eb50,176,"Wagner, Bates and Robles",2024-01-05 06:37:36,False
+ac4d89cd-3433-4263-9899-47ed5c4bdce6,840,Shannon PLC,2024-01-12 12:16:12,True
+40c76aa7-710e-4586-8b9a-3ff74dcbb7c3,456,Watson-Freeman,2024-01-13 04:18:45,True
+961b23e9-57fe-4238-a5ed-81b88d65c775,194,Morris PLC,2024-01-13 10:10:47,False
+8e633a13-9099-4102-ac3f-4762aeded30b,303,"Mason, Cortez and Gordon",2024-01-17 07:51:27,True
+18d7ff19-3a43-4eca-961e-a869e4e631aa,215,Rodriguez Inc,2024-01-07 17:36:44,True
+2f7ca85a-42b6-401d-b5c9-01d7706e9f3c,439,"Williams, Li and Tran",2024-01-01 19:01:34,False
+347b8b7e-db22-4dc6-b13b-805533b31884,307,Ruiz-Andrews,2024-01-16 18:03:56,False
+e2dfbf84-8117-4bf7-b44f-96fca25a26a4,169,"Carter, Boyd and Beard",2024-01-08 17:07:27,False
+609d8e74-b259-4792-962f-53ede1c5c484,710,"Jackson, Dean and Willis",2024-01-03 10:23:24,False
+9ef0a3da-50ca-4bba-a16f-3beb4c302d26,840,Swanson-Frey,2024-01-01 05:39:38,False
+fe0b0c95-7f23-4347-bdcb-9a182213ceaa,674,Campos-Taylor,2024-01-04 09:12:08,False
+1ab8cc35-95e7-4f55-a4e7-a3fe752dd30f,24,Parks-Mcintyre,2024-01-02 14:07:59,True
+3fe3c635-9888-4db7-8880-95fe93e7c8e9,113,"Stewart, Mayo and Perry",2024-01-07 07:09:09,False
+c6cbac19-73a3-400f-995e-2f1dac3611f9,23,Page-Griffin,2024-01-08 22:32:38,False
+4bd964b2-8180-4dc5-8262-893a3bf65f6d,459,Porter LLC,2024-01-12 17:57:17,True
+5a09c7f2-db43-4367-a269-60026ff861a3,172,"Jimenez, Reid and Williams",2024-01-04 02:01:20,False
+88c213ab-f517-4d07-b2cb-608ab081a093,889,Porter PLC,2024-01-17 06:32:59,True
+fc20d1e6-17a7-4fdf-b678-2cb05c4fac57,974,"Parks, Romero and Lindsey",2024-01-16 10:14:36,False
+bd71861d-0e76-4f67-a8a5-8a198af6daee,465,"Arellano, Castro and Wallace",2024-01-17 12:19:09,True
+ab09ec80-66f8-4139-92f1-90b1419d44e2,925,Brown-Clay,2024-01-07 19:33:14,False
+825d9657-55e6-4109-9bfa-0778c3ebc92e,326,Mitchell Ltd,2024-01-10 18:21:08,True
+fa44df5e-5eb6-4dbe-88e7-90bcbf06b7b4,919,"Haney, Carroll and Morris",2024-01-14 19:07:22,False
+9d8c874c-9d52-44d1-bb40-4315b602d4c5,825,White-Ward,2024-01-14 13:37:46,True
+36ece4f4-19b2-49b5-a62d-aa4aba4a12a7,73,"Rosales, Cox and Allen",2024-01-18 19:43:58,True
+c42fab29-bf16-4849-9e12-c91b60b82bdf,474,"Kelly, Schaefer and Chapman",2024-01-09 08:52:22,False
+916f6957-331f-40cd-825b-55c0bf8fcba3,433,Aguirre-Reyes,2024-01-14 11:40:36,True
+423ed363-2832-4fce-b682-35f23a83842b,854,Garza Ltd,2024-01-10 07:11:31,False
+4e1da38d-bc3d-49c8-8086-b519a3715b2f,129,Frazier-Ruiz,2024-01-20 00:43:14,False
+3e3451c0-6283-4f76-8b57-ae2b39af6225,529,Sullivan-Ayala,2024-01-06 14:36:59,True
+c165dc27-117d-4e63-9e6d-1b8b1f1309ae,4,Smith-Mueller,2024-01-07 21:31:50,True
+fd13123c-848a-4498-a66b-6afceb0aedec,257,"Leon, Frye and Russell",2024-01-06 12:51:13,False
+1a4451da-1ad6-4512-8fa4-45d96ca81639,906,Rogers-Beard,2024-01-15 12:23:47,False
+364f7ee0-cb44-4ded-bb41-03f57a1d64f9,43,"Murphy, Gaines and May",2024-01-11 12:04:46,True
+7f5a8665-a789-4f03-be52-ba6c1be1b601,304,"Wright, Rodriguez and Thomas",2024-01-15 01:14:32,True
+3cbda25d-a195-4a7a-8c95-dac24bba9491,896,Morrow-Wagner,2024-01-03 19:51:56,True
+978ffabd-50a9-49dd-8208-379715913aac,632,"Brown, Kerr and Clark",2024-01-19 06:34:58,True
+4b710a03-8b38-4591-80c6-750cbb8e35df,630,Weaver and Sons,2024-01-10 11:02:43,True
+9b9fbb07-0f5e-4545-b664-1441b2c3d455,269,"Mathews, Coleman and Long",2024-01-03 22:32:26,True
+2630a310-01a2-465b-af2d-4f9f8c58aca0,124,"Humphrey, Martinez and Jacobs",2024-01-03 12:46:55,True
+f8177317-818a-4557-bf3f-d185054ab0ae,151,Lowe PLC,2024-01-20 06:00:42,False
+54eee45f-af29-45a2-9242-6f52ec528808,154,"Watts, Warner and White",2024-01-09 15:13:54,True
+87f47a35-97df-4378-b7c9-c903aca7f1b9,387,Reynolds LLC,2024-01-13 11:30:42,False
+8db21573-2ba1-4ee7-9358-53bc4192895d,337,Brown-Lee,2024-01-02 09:40:38,True
+0fe7710f-8481-46d4-b04d-7c348ca5f7c8,379,Lane-Tucker,2024-01-02 19:48:12,True
+78a6c43b-479f-425c-a2ba-4fef08bb81ef,635,Wyatt-Massey,2024-01-03 19:00:07,False
+c90dff98-8726-40fa-8c3d-97a65c9a0af5,403,"Baker, Leon and Hill",2024-01-07 02:34:30,True
+f1a379a6-78fb-4936-a964-427aa572358e,179,"Pitts, Wong and Carpenter",2024-01-14 06:27:54,True
+c59e6218-affa-4135-b137-383acedcb880,226,Russo PLC,2024-01-16 10:18:06,False
+6c756811-50e1-410e-b0cb-b908eb85052a,895,"Blankenship, White and Fleming",2024-01-08 11:15:31,True
+458fd3ad-5f8d-4ecf-a702-b004c0e88877,638,Bailey-Patton,2024-01-13 01:16:06,True
+fd89ea1a-d5f3-4896-88d4-dedf20298d54,225,Steele-Johnson,2024-01-01 05:42:59,False
+ca438eae-0c1e-4b61-ba2c-e46421ad5ffb,617,Blanchard-Moses,2024-01-02 04:18:51,True
+7527b32b-ed05-4745-853d-f86cc81e146a,528,"Johnson, Guerrero and Ward",2024-01-14 18:30:37,False
+1a17db67-0742-4283-a416-013d4f9c3502,635,Hernandez-Mcintyre,2024-01-17 17:00:35,False
+bd165f8f-c85a-400a-aaaf-402f26d1bade,87,"Jones, Jenkins and Chen",2024-01-04 23:22:32,False
+c4c74809-5f37-40f4-9819-cb63210efecb,443,Blanchard Group,2024-01-15 16:20:37,False
+ccefbec3-74f6-438c-aeec-88e59e7d4072,209,"Velazquez, Benjamin and Watkins",2024-01-07 05:05:53,False
+272d62fa-d0a2-49a9-b220-0730d8cfa6fe,548,"Walton, Ashley and Phillips",2024-01-01 08:11:05,False
+a017ee7e-0469-4932-979b-fb565316f443,349,"Chandler, Wolf and Stokes",2024-01-17 00:03:22,True
+59121207-a9ec-4bbe-8631-9ad90d3fe88a,554,"Richardson, Spence and Carpenter",2024-01-19 02:45:25,False
+e075a410-6595-4a63-88dd-31dab81bb97b,957,Riley PLC,2024-01-03 17:24:57,False
+1d978569-a4ce-4f9c-8085-d6fb6fe2b570,862,Gay-Chandler,2024-01-06 15:53:48,False
+7c54b281-407e-4811-80f6-2bb51dda7fa2,227,"Rogers, Good and Baldwin",2024-01-10 04:26:07,False
+74e20ac6-3d1f-4d0e-b7ac-b31266b7968e,351,Bartlett-Miller,2024-01-20 05:44:40,True
+d9b12362-01be-473c-a13d-84b3f186cd77,905,Douglas and Sons,2024-01-01 09:08:36,True
+4d52b06d-99e7-42b4-95fc-c8b5870c023e,407,Smith PLC,2024-01-03 20:16:29,True
+d252e439-d260-43ef-aa0e-276990d79a09,290,"Nguyen, Rodriguez and Berry",2024-01-07 05:09:13,False
+bf3f509d-220b-4806-876e-7c9147d8a550,22,"Clark, Hale and Spence",2024-01-17 17:35:45,True
+2f0ba37b-3d57-4a56-ba20-eabdbfeb6d0e,735,Meyer-Berg,2024-01-06 18:33:41,False
+ec001091-d622-4159-811f-40bfbb925e19,327,Sherman-Lambert,2024-01-11 17:17:47,True
+1bb7bb81-9051-437c-b04d-9c40df463bfa,615,Price LLC,2024-01-04 19:03:55,False
+587602b1-97f1-4bfe-8ad9-fabb382df7a7,830,Wheeler-Hughes,2024-01-11 21:07:42,True
+3349b89e-360e-4082-b81e-fd5ac7161bac,397,Higgins-Hurley,2024-01-08 09:48:55,False
+57782f43-5678-4610-aaaf-52f7c917cc3b,287,Martinez Inc,2024-01-02 06:02:17,True
+fab2aa5c-c5f4-4e92-9fbc-861d42b42ae3,137,Johnson-Cooper,2024-01-14 05:10:00,False
+f3b22ddd-fbe2-45f1-9f06-99c83e2f7387,893,"Hill, Grant and Coleman",2024-01-15 07:03:36,True
+d3de6ce8-a1d9-4a59-b86c-9f324338bd2d,648,Rollins Group,2024-01-06 07:16:59,False
+f4ffeb42-f551-4ecb-afab-3ba878684f6e,957,Hill Ltd,2024-01-07 19:04:29,True
+98b52867-8e18-493a-a31d-01ddcf667cce,237,Hawkins Group,2024-01-14 09:50:04,True
+870982ae-1431-4536-b181-b06133809e73,418,"Murray, Conley and Nunez",2024-01-12 05:24:53,True
+675c4d44-0737-4364-a15d-0cfe15938ed4,291,Stein-Warren,2024-01-02 21:00:06,True
+38e63f12-6b72-492b-9383-068d005dd360,69,"Hardy, Hardin and Erickson",2024-01-13 11:54:42,True
+cf7590b0-4d68-4f20-b561-c69a6026710b,960,Klein-Stone,2024-01-10 22:34:11,True
+322157e1-6889-4f14-8c6e-869f0e6187f7,841,Torres-Walsh,2024-01-19 17:19:58,False
+917ced23-cfef-4be0-aee0-355e8635a354,739,Wilson PLC,2024-01-10 19:23:22,True
+9dd58de3-8e6d-4edc-bc21-b048b94c9d88,682,Hardy-Lawrence,2024-01-13 07:42:40,True
+3ac38b0b-95ef-4265-b76e-672b7f05bef4,778,Bennett Group,2024-01-17 16:45:20,False
+7723ff1c-346d-4375-bda2-3ff052311ff5,708,"Solis, Phillips and Pineda",2024-01-14 07:49:07,False
+55c7e24d-9ead-4c30-91df-19d75ce87ccd,579,Strong-Rodriguez,2024-01-15 01:05:28,False
+3b56dc76-5742-47e5-a4d9-17c44e2cbcbe,964,"Parker, Nunez and Lynn",2024-01-18 09:17:46,False
+d50e09bd-5b40-4f8b-8418-fc5b861047e4,231,Santiago LLC,2024-01-09 02:05:28,True

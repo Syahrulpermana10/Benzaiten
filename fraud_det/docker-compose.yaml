@@ -1,0 +1,47 @@
+# docker-compose.yaml
+version: '3.8'
+
+services:
+  airflow:
+    image: ${AIRFLOW_IMAGE_NAME}
+    environment:
+      - AIRFLOW_UID=${AIRFLOW_UID}
+      - POSTGRES_HOST=${PGHOST}
+      - POSTGRES_DB=${PGDATABASE}
+      - POSTGRES_USER=${PGUSER}
+      - POSTGRES_PASSWORD=${PGPASSWORD}
+      - _PIP_ADDITIONAL_REQUIREMENTS=-r /requirements.txt
+    volumes:
+      - ${AIRFLOW_PROJ_DIR}/dags:/opt/airflow/dags
+      - ${AIRFLOW_PROJ_DIR}/logs:/opt/airflow/logs
+      - ${AIRFLOW_PROJ_DIR}/config:/opt/airflow/config
+      - ${AIRFLOW_PROJ_DIR}/plugins:/opt/airflow/plugins
+      - ${AIRFLOW_PROJ_DIR}/requirements.txt:/requirements.txt
+    depends_on:
+      - postgres
+      - spark
+
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: ${PGUSER}
+      POSTGRES_PASSWORD: ${PGPASSWORD}
+      POSTGRES_DB: ${PGDATABASE}
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+
+  spark:
+    image: bitnami/spark:3
+    environment:
+      - SPARK_MODE=master
+    ports:
+      - "7077:7077"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:7077/"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+volumes:
+  postgres-db-volume:
